@@ -1,0 +1,127 @@
+[
+  {
+    "actual": "快递破损",
+    "proposed": "快递破损",
+    "loss": 0
+  },
+  {
+    "actual": "快递破损",
+    "proposed": "印刷偏差",
+    "loss": 4
+  },
+  {
+    "actual": "快递破损",
+    "proposed": "表面褪色",
+    "loss": 4
+  },
+  {
+    "actual": "快递破损",
+    "proposed": "配件缺失",
+    "loss": 4
+  },
+  {
+    "actual": "快递破损",
+    "proposed": "资料咨询",
+    "loss": 4
+  },
+  {
+    "actual": "印刷偏差",
+    "proposed": "快递破损",
+    "loss": 4
+  },
+  {
+    "actual": "印刷偏差",
+    "proposed": "印刷偏差",
+    "loss": 0
+  },
+  {
+    "actual": "印刷偏差",
+    "proposed": "表面褪色",
+    "loss": 4
+  },
+  {
+    "actual": "印刷偏差",
+    "proposed": "配件缺失",
+    "loss": 4
+  },
+  {
+    "actual": "印刷偏差",
+    "proposed": "资料咨询",
+    "loss": 4
+  },
+  {
+    "actual": "表面褪色",
+    "proposed": "快递破损",
+    "loss": 11
+  },
+  {
+    "actual": "表面褪色",
+    "proposed": "印刷偏差",
+    "loss": 11
+  },
+  {
+    "actual": "表面褪色",
+    "proposed": "表面褪色",
+    "loss": 0
+  },
+  {
+    "actual": "表面褪色",
+    "proposed": "配件缺失",
+    "loss": 11
+  },
+  {
+    "actual": "表面褪色",
+    "proposed": "资料咨询",
+    "loss": 11
+  },
+  {
+    "actual": "配件缺失",
+    "proposed": "快递破损",
+    "loss": 4
+  },
+  {
+    "actual": "配件缺失",
+    "proposed": "印刷偏差",
+    "loss": 4
+  },
+  {
+    "actual": "配件缺失",
+    "proposed": "表面褪色",
+    "loss": 4
+  },
+  {
+    "actual": "配件缺失",
+    "proposed": "配件缺失",
+    "loss": 0
+  },
+  {
+    "actual": "配件缺失",
+    "proposed": "资料咨询",
+    "loss": 4
+  },
+  {
+    "actual": "资料咨询",
+    "proposed": "快递破损",
+    "loss": 4
+  },
+  {
+    "actual": "资料咨询",
+    "proposed": "印刷偏差",
+    "loss": 4
+  },
+  {
+    "actual": "资料咨询",
+    "proposed": "表面褪色",
+    "loss": 4
+  },
+  {
+    "actual": "资料咨询",
+    "proposed": "配件缺失",
+    "loss": 4
+  },
+  {
+    "actual": "资料咨询",
+    "proposed": "资料咨询",
+    "loss": 0
+  }
+]

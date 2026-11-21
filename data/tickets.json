@@ -1,0 +1,4152 @@
+[
+  {
+    "ticket": "T0000",
+    "order_line": "L0000",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B000",
+    "received": "2026-08-01T13:00:00+08:00",
+    "due": "2026-08-04T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 新到"
+  },
+  {
+    "ticket": "T0000B",
+    "order_line": "L0000",
+    "linked": "T0000",
+    "store": "arch",
+    "product_family": "B000",
+    "received": "2026-08-05T13:00:00+08:00",
+    "due": "2026-08-08T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 新到 前次问过"
+  },
+  {
+    "ticket": "T0001",
+    "order_line": "L0001",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B000",
+    "received": "2026-08-01T13:00:00+08:00",
+    "due": "2026-08-04T16:00:00+08:00",
+    "description": "图案 印歪 拼接 馆店"
+  },
+  {
+    "ticket": "T0002",
+    "order_line": "L0002",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B000",
+    "received": "2026-08-01T13:00:00+08:00",
+    "due": "2026-08-02T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 照片"
+  },
+  {
+    "ticket": "T0003",
+    "order_line": "L0003",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B001",
+    "received": "2026-08-01T13:00:00+08:00",
+    "due": "2026-08-04T16:00:00+08:00",
+    "description": "没有 附件 挂钩 "
+  },
+  {
+    "ticket": "T0004",
+    "order_line": "L0004",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B001",
+    "received": "2026-08-01T13:00:00+08:00",
+    "due": "2026-08-04T16:00:00+08:00",
+    "description": "有无 授权 说明 新到"
+  },
+  {
+    "ticket": "T0005",
+    "order_line": "L0005",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B001",
+    "received": "2026-08-02T13:00:00+08:00",
+    "due": "2026-08-05T16:00:00+08:00",
+    "description": "撞坏 缓冲 新到"
+  },
+  {
+    "ticket": "T0006",
+    "order_line": "L0006",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B002",
+    "received": "2026-08-02T13:00:00+08:00",
+    "due": "2026-08-05T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 新到"
+  },
+  {
+    "ticket": "T0007",
+    "order_line": "L0007",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B002",
+    "received": "2026-08-02T13:00:00+08:00",
+    "due": "2026-08-03T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 换货后"
+  },
+  {
+    "ticket": "T0008",
+    "order_line": "L0008",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B002",
+    "received": "2026-08-02T13:00:00+08:00",
+    "due": "2026-08-05T16:00:00+08:00",
+    "description": "盖子 找不到 零件 "
+  },
+  {
+    "ticket": "T0009",
+    "order_line": "L0009",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B003",
+    "received": "2026-08-02T13:00:00+08:00",
+    "due": "2026-08-05T16:00:00+08:00",
+    "description": "预约 联系 展示牌 馆店"
+  },
+  {
+    "ticket": "T0010",
+    "order_line": "L0010",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B003",
+    "received": "2026-08-03T13:00:00+08:00",
+    "due": "2026-08-06T16:00:00+08:00",
+    "description": "撞坏 缓冲 新到"
+  },
+  {
+    "ticket": "T0011",
+    "order_line": "L0011",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B003",
+    "received": "2026-08-03T13:00:00+08:00",
+    "due": "2026-08-04T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 照片"
+  },
+  {
+    "ticket": "T0011B",
+    "order_line": "L0011",
+    "linked": "T0011",
+    "store": "hill",
+    "product_family": "B003",
+    "received": "2026-08-07T13:00:00+08:00",
+    "due": "2026-08-10T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 照片 前次问过"
+  },
+  {
+    "ticket": "T0012",
+    "order_line": "L0012",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B004",
+    "received": "2026-08-03T13:00:00+08:00",
+    "due": "2026-08-06T16:00:00+08:00",
+    "description": "漏发 strap "
+  },
+  {
+    "ticket": "T0013",
+    "order_line": "L0013",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B004",
+    "received": "2026-08-03T13:00:00+08:00",
+    "due": "2026-08-06T16:00:00+08:00",
+    "description": "预约 联系 展示牌 馆店"
+  },
+  {
+    "ticket": "T0014",
+    "order_line": "L0014",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B004",
+    "received": "2026-08-03T13:00:00+08:00",
+    "due": "2026-08-06T16:00:00+08:00",
+    "description": "包装 角扁 物流 "
+  },
+  {
+    "ticket": "T0015",
+    "order_line": "L0015",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B005",
+    "received": "2026-08-04T13:00:00+08:00",
+    "due": "2026-08-07T16:00:00+08:00",
+    "description": "字 印偏 看不清 馆店"
+  },
+  {
+    "ticket": "T0016",
+    "order_line": "L0016",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B005",
+    "received": "2026-08-04T13:00:00+08:00",
+    "due": "2026-08-05T16:00:00+08:00",
+    "description": "涂层 污迹 染手 照片"
+  },
+  {
+    "ticket": "T0017",
+    "order_line": "L0017",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B005",
+    "received": "2026-08-04T13:00:00+08:00",
+    "due": "2026-08-07T16:00:00+08:00",
+    "description": "漏发 strap 照片"
+  },
+  {
+    "ticket": "T0018",
+    "order_line": "L0018",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B006",
+    "received": "2026-08-04T13:00:00+08:00",
+    "due": "2026-08-07T16:00:00+08:00",
+    "description": "请问 哪个 展馆 照片"
+  },
+  {
+    "ticket": "T0019",
+    "order_line": "L0019",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B006",
+    "received": "2026-08-04T13:00:00+08:00",
+    "due": "2026-08-07T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 照片"
+  },
+  {
+    "ticket": "T0020",
+    "order_line": "L0020",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B006",
+    "received": "2026-08-05T13:00:00+08:00",
+    "due": "2026-08-08T16:00:00+08:00",
+    "description": "字 印偏 看不清 新到"
+  },
+  {
+    "ticket": "T0021",
+    "order_line": "L0021",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B007",
+    "received": "2026-08-05T13:00:00+08:00",
+    "due": "2026-08-06T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 "
+  },
+  {
+    "ticket": "T0022",
+    "order_line": "L0022",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B007",
+    "received": "2026-08-05T13:00:00+08:00",
+    "due": "2026-08-08T16:00:00+08:00",
+    "description": "预约 联系 展示牌 新到"
+  },
+  {
+    "ticket": "T0022B",
+    "order_line": "L0022",
+    "linked": "T0022",
+    "store": "hall",
+    "product_family": "B007",
+    "received": "2026-08-09T13:00:00+08:00",
+    "due": "2026-08-12T16:00:00+08:00",
+    "description": "预约 联系 展示牌 新到 前次问过"
+  },
+  {
+    "ticket": "T0023",
+    "order_line": "L0023",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B007",
+    "received": "2026-08-05T13:00:00+08:00",
+    "due": "2026-08-08T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 换货后"
+  },
+  {
+    "ticket": "T0024",
+    "order_line": "L0024",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B008",
+    "received": "2026-08-05T13:00:00+08:00",
+    "due": "2026-08-08T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 "
+  },
+  {
+    "ticket": "T0025",
+    "order_line": "L0025",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B008",
+    "received": "2026-08-06T13:00:00+08:00",
+    "due": "2026-08-07T16:00:00+08:00",
+    "description": "涂层 污迹 染手 照片"
+  },
+  {
+    "ticket": "T0026",
+    "order_line": "L0026",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B008",
+    "received": "2026-08-06T13:00:00+08:00",
+    "due": "2026-08-09T16:00:00+08:00",
+    "description": "没有 附件 挂钩 新到"
+  },
+  {
+    "ticket": "T0027",
+    "order_line": "L0027",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B009",
+    "received": "2026-08-06T13:00:00+08:00",
+    "due": "2026-08-09T16:00:00+08:00",
+    "description": "有无 授权 说明 "
+  },
+  {
+    "ticket": "T0028",
+    "order_line": "L0028",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B009",
+    "received": "2026-08-06T13:00:00+08:00",
+    "due": "2026-08-09T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 馆店"
+  },
+  {
+    "ticket": "T0029",
+    "order_line": "L0029",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B009",
+    "received": "2026-08-06T13:00:00+08:00",
+    "due": "2026-08-09T16:00:00+08:00",
+    "description": "图案 印歪 拼接 新到"
+  },
+  {
+    "ticket": "T0030",
+    "order_line": "L0030",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B010",
+    "received": "2026-08-07T13:00:00+08:00",
+    "due": "2026-08-08T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 照片"
+  },
+  {
+    "ticket": "T0031",
+    "order_line": "L0031",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B010",
+    "received": "2026-08-07T13:00:00+08:00",
+    "due": "2026-08-10T16:00:00+08:00",
+    "description": "漏发 strap 换货后"
+  },
+  {
+    "ticket": "T0032",
+    "order_line": "L0032",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B010",
+    "received": "2026-08-07T13:00:00+08:00",
+    "due": "2026-08-10T16:00:00+08:00",
+    "description": "有无 授权 说明 换货后"
+  },
+  {
+    "ticket": "T0033",
+    "order_line": "L0033",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B011",
+    "received": "2026-08-07T13:00:00+08:00",
+    "due": "2026-08-10T16:00:00+08:00",
+    "description": "图案 印歪 拼接 "
+  },
+  {
+    "ticket": "T0033B",
+    "order_line": "L0033",
+    "linked": "T0033",
+    "store": "arch",
+    "product_family": "B011",
+    "received": "2026-08-11T13:00:00+08:00",
+    "due": "2026-08-14T16:00:00+08:00",
+    "description": "图案 印歪 拼接  前次问过"
+  },
+  {
+    "ticket": "T0034",
+    "order_line": "L0034",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B011",
+    "received": "2026-08-07T13:00:00+08:00",
+    "due": "2026-08-08T16:00:00+08:00",
+    "description": "涂层 污迹 染手 馆店"
+  },
+  {
+    "ticket": "T0035",
+    "order_line": "L0035",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B011",
+    "received": "2026-08-08T13:00:00+08:00",
+    "due": "2026-08-11T16:00:00+08:00",
+    "description": "盖子 找不到 零件 照片"
+  },
+  {
+    "ticket": "T0036",
+    "order_line": "L0036",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B012",
+    "received": "2026-08-08T13:00:00+08:00",
+    "due": "2026-08-11T16:00:00+08:00",
+    "description": "有无 授权 说明 馆店"
+  },
+  {
+    "ticket": "T0037",
+    "order_line": "L0037",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B012",
+    "received": "2026-08-08T13:00:00+08:00",
+    "due": "2026-08-11T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 新到"
+  },
+  {
+    "ticket": "T0038",
+    "order_line": "L0038",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B012",
+    "received": "2026-08-08T13:00:00+08:00",
+    "due": "2026-08-11T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 新到"
+  },
+  {
+    "ticket": "T0039",
+    "order_line": "L0039",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B013",
+    "received": "2026-08-08T13:00:00+08:00",
+    "due": "2026-08-09T16:00:00+08:00",
+    "description": "涂层 污迹 染手 "
+  },
+  {
+    "ticket": "T0040",
+    "order_line": "L0040",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B013",
+    "received": "2026-08-09T13:00:00+08:00",
+    "due": "2026-08-12T16:00:00+08:00",
+    "description": "漏发 strap 照片"
+  },
+  {
+    "ticket": "T0041",
+    "order_line": "L0041",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B013",
+    "received": "2026-08-09T13:00:00+08:00",
+    "due": "2026-08-12T16:00:00+08:00",
+    "description": "请问 哪个 展馆 馆店"
+  },
+  {
+    "ticket": "T0042",
+    "order_line": "L0042",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B014",
+    "received": "2026-08-09T13:00:00+08:00",
+    "due": "2026-08-12T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 换货后"
+  },
+  {
+    "ticket": "T0043",
+    "order_line": "L0043",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B014",
+    "received": "2026-08-09T13:00:00+08:00",
+    "due": "2026-08-12T16:00:00+08:00",
+    "description": "字 印偏 看不清 馆店"
+  },
+  {
+    "ticket": "T0044",
+    "order_line": "L0044",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B014",
+    "received": "2026-08-09T13:00:00+08:00",
+    "due": "2026-08-12T16:00:00+08:00",
+    "description": "漏发 strap 新到"
+  },
+  {
+    "ticket": "T0044B",
+    "order_line": "L0044",
+    "linked": "T0044",
+    "store": "hill",
+    "product_family": "B014",
+    "received": "2026-08-13T13:00:00+08:00",
+    "due": "2026-08-16T16:00:00+08:00",
+    "description": "漏发 strap 新到 前次问过"
+  },
+  {
+    "ticket": "T0045",
+    "order_line": "L0045",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B015",
+    "received": "2026-08-10T13:00:00+08:00",
+    "due": "2026-08-13T16:00:00+08:00",
+    "description": "怎么 清洗 图案 馆店"
+  },
+  {
+    "ticket": "T0046",
+    "order_line": "L0046",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B015",
+    "received": "2026-08-10T13:00:00+08:00",
+    "due": "2026-08-13T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 馆店"
+  },
+  {
+    "ticket": "T0047",
+    "order_line": "L0047",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B015",
+    "received": "2026-08-10T13:00:00+08:00",
+    "due": "2026-08-13T16:00:00+08:00",
+    "description": "花样 错版 移位 照片"
+  },
+  {
+    "ticket": "T0048",
+    "order_line": "L0048",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B016",
+    "received": "2026-08-10T13:00:00+08:00",
+    "due": "2026-08-11T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 换货后"
+  },
+  {
+    "ticket": "T0049",
+    "order_line": "L0049",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B016",
+    "received": "2026-08-10T13:00:00+08:00",
+    "due": "2026-08-13T16:00:00+08:00",
+    "description": "少了 卡扣 配件 "
+  },
+  {
+    "ticket": "T0050",
+    "order_line": "L0050",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B016",
+    "received": "2026-08-11T13:00:00+08:00",
+    "due": "2026-08-14T16:00:00+08:00",
+    "description": "预约 联系 展示牌 新到"
+  },
+  {
+    "ticket": "T0051",
+    "order_line": "L0051",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B017",
+    "received": "2026-08-11T13:00:00+08:00",
+    "due": "2026-08-14T16:00:00+08:00",
+    "description": "撞坏 缓冲 馆店"
+  },
+  {
+    "ticket": "T0052",
+    "order_line": "L0052",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B017",
+    "received": "2026-08-11T13:00:00+08:00",
+    "due": "2026-08-14T16:00:00+08:00",
+    "description": "字 印偏 看不清 "
+  },
+  {
+    "ticket": "T0053",
+    "order_line": "L0053",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B017",
+    "received": "2026-08-11T13:00:00+08:00",
+    "due": "2026-08-12T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 馆店"
+  },
+  {
+    "ticket": "T0054",
+    "order_line": "L0054",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B018",
+    "received": "2026-08-11T13:00:00+08:00",
+    "due": "2026-08-14T16:00:00+08:00",
+    "description": "没有 附件 挂钩 "
+  },
+  {
+    "ticket": "T0055",
+    "order_line": "L0055",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B018",
+    "received": "2026-08-12T13:00:00+08:00",
+    "due": "2026-08-15T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 照片"
+  },
+  {
+    "ticket": "T0055B",
+    "order_line": "L0055",
+    "linked": "T0055",
+    "store": "hall",
+    "product_family": "B018",
+    "received": "2026-08-16T13:00:00+08:00",
+    "due": "2026-08-19T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 照片 前次问过"
+  },
+  {
+    "ticket": "T0056",
+    "order_line": "L0056",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B018",
+    "received": "2026-08-12T13:00:00+08:00",
+    "due": "2026-08-15T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 换货后"
+  },
+  {
+    "ticket": "T0057",
+    "order_line": "L0057",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B019",
+    "received": "2026-08-12T13:00:00+08:00",
+    "due": "2026-08-13T16:00:00+08:00",
+    "description": "涂层 污迹 染手 "
+  },
+  {
+    "ticket": "T0058",
+    "order_line": "L0058",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B019",
+    "received": "2026-08-12T13:00:00+08:00",
+    "due": "2026-08-15T16:00:00+08:00",
+    "description": "少了 卡扣 配件 馆店"
+  },
+  {
+    "ticket": "T0059",
+    "order_line": "L0059",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B019",
+    "received": "2026-08-12T13:00:00+08:00",
+    "due": "2026-08-15T16:00:00+08:00",
+    "description": "预约 联系 展示牌 换货后"
+  },
+  {
+    "ticket": "T0060",
+    "order_line": "L0060",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B020",
+    "received": "2026-08-13T13:00:00+08:00",
+    "due": "2026-08-16T16:00:00+08:00",
+    "description": "包装 角扁 物流 "
+  },
+  {
+    "ticket": "T0061",
+    "order_line": "L0061",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B020",
+    "received": "2026-08-13T13:00:00+08:00",
+    "due": "2026-08-16T16:00:00+08:00",
+    "description": "花样 错版 移位 馆店"
+  },
+  {
+    "ticket": "T0062",
+    "order_line": "L0062",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B020",
+    "received": "2026-08-13T13:00:00+08:00",
+    "due": "2026-08-14T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 馆店"
+  },
+  {
+    "ticket": "T0063",
+    "order_line": "L0063",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B021",
+    "received": "2026-08-13T13:00:00+08:00",
+    "due": "2026-08-16T16:00:00+08:00",
+    "description": "漏发 strap 换货后"
+  },
+  {
+    "ticket": "T0064",
+    "order_line": "L0064",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B021",
+    "received": "2026-08-13T13:00:00+08:00",
+    "due": "2026-08-16T16:00:00+08:00",
+    "description": "怎么 清洗 图案 "
+  },
+  {
+    "ticket": "T0065",
+    "order_line": "L0065",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B021",
+    "received": "2026-08-14T13:00:00+08:00",
+    "due": "2026-08-17T16:00:00+08:00",
+    "description": "包装 角扁 物流 照片"
+  },
+  {
+    "ticket": "T0066",
+    "order_line": "L0066",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B022",
+    "received": "2026-08-14T13:00:00+08:00",
+    "due": "2026-08-15T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 馆店"
+  },
+  {
+    "ticket": "T0066B",
+    "order_line": "L0066",
+    "linked": "T0066",
+    "store": "arch",
+    "product_family": "B022",
+    "received": "2026-08-18T13:00:00+08:00",
+    "due": "2026-08-21T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 馆店 前次问过"
+  },
+  {
+    "ticket": "T0067",
+    "order_line": "L0067",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B022",
+    "received": "2026-08-14T13:00:00+08:00",
+    "due": "2026-08-17T16:00:00+08:00",
+    "description": "盖子 找不到 零件 馆店"
+  },
+  {
+    "ticket": "T0068",
+    "order_line": "L0068",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B022",
+    "received": "2026-08-14T13:00:00+08:00",
+    "due": "2026-08-17T16:00:00+08:00",
+    "description": "怎么 清洗 图案 新到"
+  },
+  {
+    "ticket": "T0069",
+    "order_line": "L0069",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B023",
+    "received": "2026-08-14T13:00:00+08:00",
+    "due": "2026-08-17T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 新到"
+  },
+  {
+    "ticket": "T0070",
+    "order_line": "L0070",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B023",
+    "received": "2026-08-15T13:00:00+08:00",
+    "due": "2026-08-18T16:00:00+08:00",
+    "description": "字 印偏 看不清 馆店"
+  },
+  {
+    "ticket": "T0071",
+    "order_line": "L0071",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B023",
+    "received": "2026-08-15T13:00:00+08:00",
+    "due": "2026-08-16T16:00:00+08:00",
+    "description": "涂层 污迹 染手 馆店"
+  },
+  {
+    "ticket": "T0072",
+    "order_line": "L0072",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B024",
+    "received": "2026-08-15T13:00:00+08:00",
+    "due": "2026-08-18T16:00:00+08:00",
+    "description": "盖子 找不到 零件 换货后"
+  },
+  {
+    "ticket": "T0073",
+    "order_line": "L0073",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B024",
+    "received": "2026-08-15T13:00:00+08:00",
+    "due": "2026-08-18T16:00:00+08:00",
+    "description": "请问 哪个 展馆 "
+  },
+  {
+    "ticket": "T0074",
+    "order_line": "L0074",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B024",
+    "received": "2026-08-15T13:00:00+08:00",
+    "due": "2026-08-18T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 照片"
+  },
+  {
+    "ticket": "T0075",
+    "order_line": "L0075",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B025",
+    "received": "2026-08-16T13:00:00+08:00",
+    "due": "2026-08-19T16:00:00+08:00",
+    "description": "字 印偏 看不清 新到"
+  },
+  {
+    "ticket": "T0076",
+    "order_line": "L0076",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B025",
+    "received": "2026-08-16T13:00:00+08:00",
+    "due": "2026-08-17T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 照片"
+  },
+  {
+    "ticket": "T0077",
+    "order_line": "L0077",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B025",
+    "received": "2026-08-16T13:00:00+08:00",
+    "due": "2026-08-19T16:00:00+08:00",
+    "description": "怎么 清洗 图案 "
+  },
+  {
+    "ticket": "T0077B",
+    "order_line": "L0077",
+    "linked": "T0077",
+    "store": "hill",
+    "product_family": "B025",
+    "received": "2026-08-20T13:00:00+08:00",
+    "due": "2026-08-23T16:00:00+08:00",
+    "description": "怎么 清洗 图案  前次问过"
+  },
+  {
+    "ticket": "T0078",
+    "order_line": "L0078",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B026",
+    "received": "2026-08-16T13:00:00+08:00",
+    "due": "2026-08-19T16:00:00+08:00",
+    "description": "撞坏 缓冲 照片"
+  },
+  {
+    "ticket": "T0079",
+    "order_line": "L0079",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B026",
+    "received": "2026-08-16T13:00:00+08:00",
+    "due": "2026-08-19T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 新到"
+  },
+  {
+    "ticket": "T0080",
+    "order_line": "L0080",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B026",
+    "received": "2026-08-17T13:00:00+08:00",
+    "due": "2026-08-18T16:00:00+08:00",
+    "description": "涂层 污迹 染手 "
+  },
+  {
+    "ticket": "T0081",
+    "order_line": "L0081",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B027",
+    "received": "2026-08-17T13:00:00+08:00",
+    "due": "2026-08-20T16:00:00+08:00",
+    "description": "漏发 strap 换货后"
+  },
+  {
+    "ticket": "T0082",
+    "order_line": "L0082",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B027",
+    "received": "2026-08-17T13:00:00+08:00",
+    "due": "2026-08-20T16:00:00+08:00",
+    "description": "预约 联系 展示牌 新到"
+  },
+  {
+    "ticket": "T0083",
+    "order_line": "L0083",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B027",
+    "received": "2026-08-17T13:00:00+08:00",
+    "due": "2026-08-20T16:00:00+08:00",
+    "description": "包装 角扁 物流 馆店"
+  },
+  {
+    "ticket": "T0084",
+    "order_line": "L0084",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B028",
+    "received": "2026-08-17T13:00:00+08:00",
+    "due": "2026-08-20T16:00:00+08:00",
+    "description": "字 印偏 看不清 新到"
+  },
+  {
+    "ticket": "T0085",
+    "order_line": "L0085",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B028",
+    "received": "2026-08-18T13:00:00+08:00",
+    "due": "2026-08-19T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 "
+  },
+  {
+    "ticket": "T0086",
+    "order_line": "L0086",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B028",
+    "received": "2026-08-18T13:00:00+08:00",
+    "due": "2026-08-21T16:00:00+08:00",
+    "description": "少了 卡扣 配件 馆店"
+  },
+  {
+    "ticket": "T0087",
+    "order_line": "L0087",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B029",
+    "received": "2026-08-18T13:00:00+08:00",
+    "due": "2026-08-21T16:00:00+08:00",
+    "description": "预约 联系 展示牌 馆店"
+  },
+  {
+    "ticket": "T0088",
+    "order_line": "L0088",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B029",
+    "received": "2026-08-18T13:00:00+08:00",
+    "due": "2026-08-21T16:00:00+08:00",
+    "description": "字 印偏 看不清 新到"
+  },
+  {
+    "ticket": "T0088B",
+    "order_line": "L0088",
+    "linked": "T0088",
+    "store": "hall",
+    "product_family": "B029",
+    "received": "2026-08-22T13:00:00+08:00",
+    "due": "2026-08-25T16:00:00+08:00",
+    "description": "字 印偏 看不清 新到 前次问过"
+  },
+  {
+    "ticket": "T0089",
+    "order_line": "L0089",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B029",
+    "received": "2026-08-18T13:00:00+08:00",
+    "due": "2026-08-19T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 "
+  },
+  {
+    "ticket": "T0090",
+    "order_line": "L0090",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B030",
+    "received": "2026-08-19T13:00:00+08:00",
+    "due": "2026-08-22T16:00:00+08:00",
+    "description": "漏发 strap 新到"
+  },
+  {
+    "ticket": "T0091",
+    "order_line": "L0091",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B030",
+    "received": "2026-08-19T13:00:00+08:00",
+    "due": "2026-08-22T16:00:00+08:00",
+    "description": "有无 授权 说明 新到"
+  },
+  {
+    "ticket": "T0092",
+    "order_line": "L0092",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B030",
+    "received": "2026-08-19T13:00:00+08:00",
+    "due": "2026-08-22T16:00:00+08:00",
+    "description": "撞坏 缓冲 馆店"
+  },
+  {
+    "ticket": "T0093",
+    "order_line": "L0093",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B031",
+    "received": "2026-08-19T13:00:00+08:00",
+    "due": "2026-08-22T16:00:00+08:00",
+    "description": "图案 印歪 拼接 换货后"
+  },
+  {
+    "ticket": "T0094",
+    "order_line": "L0094",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B031",
+    "received": "2026-08-19T13:00:00+08:00",
+    "due": "2026-08-20T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 照片"
+  },
+  {
+    "ticket": "T0095",
+    "order_line": "L0095",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B031",
+    "received": "2026-08-20T13:00:00+08:00",
+    "due": "2026-08-23T16:00:00+08:00",
+    "description": "漏发 strap 换货后"
+  },
+  {
+    "ticket": "T0096",
+    "order_line": "L0096",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B032",
+    "received": "2026-08-20T13:00:00+08:00",
+    "due": "2026-08-23T16:00:00+08:00",
+    "description": "怎么 清洗 图案 换货后"
+  },
+  {
+    "ticket": "T0097",
+    "order_line": "L0097",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B032",
+    "received": "2026-08-20T13:00:00+08:00",
+    "due": "2026-08-23T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 新到"
+  },
+  {
+    "ticket": "T0098",
+    "order_line": "L0098",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B032",
+    "received": "2026-08-20T13:00:00+08:00",
+    "due": "2026-08-23T16:00:00+08:00",
+    "description": "字 印偏 看不清 新到"
+  },
+  {
+    "ticket": "T0099",
+    "order_line": "L0099",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B033",
+    "received": "2026-08-20T13:00:00+08:00",
+    "due": "2026-08-23T16:00:00+08:00",
+    "description": "少了 卡扣 配件 换货后"
+  },
+  {
+    "ticket": "T0099B",
+    "order_line": "L0099",
+    "linked": "T0099",
+    "store": "arch",
+    "product_family": "B033",
+    "received": "2026-08-24T13:00:00+08:00",
+    "due": "2026-08-27T16:00:00+08:00",
+    "description": "少了 卡扣 配件 换货后 前次问过"
+  },
+  {
+    "ticket": "T0100",
+    "order_line": "L0100",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B033",
+    "received": "2026-08-21T13:00:00+08:00",
+    "due": "2026-08-24T16:00:00+08:00",
+    "description": "怎么 清洗 图案 "
+  },
+  {
+    "ticket": "T0101",
+    "order_line": "L0101",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B033",
+    "received": "2026-08-21T13:00:00+08:00",
+    "due": "2026-08-24T16:00:00+08:00",
+    "description": "撞坏 缓冲 新到"
+  },
+  {
+    "ticket": "T0102",
+    "order_line": "L0102",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B034",
+    "received": "2026-08-21T13:00:00+08:00",
+    "due": "2026-08-24T16:00:00+08:00",
+    "description": "字 印偏 看不清 换货后"
+  },
+  {
+    "ticket": "T0103",
+    "order_line": "L0103",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B034",
+    "received": "2026-08-21T13:00:00+08:00",
+    "due": "2026-08-22T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 "
+  },
+  {
+    "ticket": "T0104",
+    "order_line": "L0104",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B034",
+    "received": "2026-08-21T13:00:00+08:00",
+    "due": "2026-08-24T16:00:00+08:00",
+    "description": "没有 附件 挂钩 新到"
+  },
+  {
+    "ticket": "T0105",
+    "order_line": "L0105",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B035",
+    "received": "2026-08-22T13:00:00+08:00",
+    "due": "2026-08-25T16:00:00+08:00",
+    "description": "预约 联系 展示牌 照片"
+  },
+  {
+    "ticket": "T0106",
+    "order_line": "L0106",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B035",
+    "received": "2026-08-22T13:00:00+08:00",
+    "due": "2026-08-25T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 换货后"
+  },
+  {
+    "ticket": "T0107",
+    "order_line": "L0107",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B035",
+    "received": "2026-08-22T13:00:00+08:00",
+    "due": "2026-08-25T16:00:00+08:00",
+    "description": "图案 印歪 拼接 换货后"
+  },
+  {
+    "ticket": "T0108",
+    "order_line": "L0108",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B036",
+    "received": "2026-08-22T13:00:00+08:00",
+    "due": "2026-08-23T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 "
+  },
+  {
+    "ticket": "T0109",
+    "order_line": "L0109",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B036",
+    "received": "2026-08-22T13:00:00+08:00",
+    "due": "2026-08-25T16:00:00+08:00",
+    "description": "没有 附件 挂钩 新到"
+  },
+  {
+    "ticket": "T0110",
+    "order_line": "L0110",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B036",
+    "received": "2026-08-23T13:00:00+08:00",
+    "due": "2026-08-26T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 馆店"
+  },
+  {
+    "ticket": "T0110B",
+    "order_line": "L0110",
+    "linked": "T0110",
+    "store": "hill",
+    "product_family": "B036",
+    "received": "2026-08-27T13:00:00+08:00",
+    "due": "2026-08-30T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 馆店 前次问过"
+  },
+  {
+    "ticket": "T0111",
+    "order_line": "L0111",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B037",
+    "received": "2026-08-23T13:00:00+08:00",
+    "due": "2026-08-26T16:00:00+08:00",
+    "description": "字 印偏 看不清 "
+  },
+  {
+    "ticket": "T0112",
+    "order_line": "L0112",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B037",
+    "received": "2026-08-23T13:00:00+08:00",
+    "due": "2026-08-24T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 "
+  },
+  {
+    "ticket": "T0113",
+    "order_line": "L0113",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B037",
+    "received": "2026-08-23T13:00:00+08:00",
+    "due": "2026-08-26T16:00:00+08:00",
+    "description": "盖子 找不到 零件 "
+  },
+  {
+    "ticket": "T0114",
+    "order_line": "L0114",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B038",
+    "received": "2026-08-23T13:00:00+08:00",
+    "due": "2026-08-26T16:00:00+08:00",
+    "description": "预约 联系 展示牌 换货后"
+  },
+  {
+    "ticket": "T0115",
+    "order_line": "L0115",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B038",
+    "received": "2026-08-24T13:00:00+08:00",
+    "due": "2026-08-27T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 馆店"
+  },
+  {
+    "ticket": "T0116",
+    "order_line": "L0116",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B038",
+    "received": "2026-08-24T13:00:00+08:00",
+    "due": "2026-08-27T16:00:00+08:00",
+    "description": "图案 印歪 拼接 新到"
+  },
+  {
+    "ticket": "T0117",
+    "order_line": "L0117",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B039",
+    "received": "2026-08-24T13:00:00+08:00",
+    "due": "2026-08-25T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 馆店"
+  },
+  {
+    "ticket": "T0118",
+    "order_line": "L0118",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B039",
+    "received": "2026-08-24T13:00:00+08:00",
+    "due": "2026-08-27T16:00:00+08:00",
+    "description": "漏发 strap 新到"
+  },
+  {
+    "ticket": "T0119",
+    "order_line": "L0119",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B039",
+    "received": "2026-08-24T13:00:00+08:00",
+    "due": "2026-08-27T16:00:00+08:00",
+    "description": "怎么 清洗 图案 馆店"
+  },
+  {
+    "ticket": "T0120",
+    "order_line": "L0120",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B040",
+    "received": "2026-08-25T13:00:00+08:00",
+    "due": "2026-08-28T16:00:00+08:00",
+    "description": "撞坏 缓冲 新到"
+  },
+  {
+    "ticket": "T0121",
+    "order_line": "L0121",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B040",
+    "received": "2026-08-25T13:00:00+08:00",
+    "due": "2026-08-26T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 馆店"
+  },
+  {
+    "ticket": "T0121B",
+    "order_line": "L0121",
+    "linked": "T0121",
+    "store": "hall",
+    "product_family": "B040",
+    "received": "2026-08-29T13:00:00+08:00",
+    "due": "2026-09-01T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 馆店 前次问过"
+  },
+  {
+    "ticket": "T0122",
+    "order_line": "L0122",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B040",
+    "received": "2026-08-25T13:00:00+08:00",
+    "due": "2026-08-28T16:00:00+08:00",
+    "description": "没有 附件 挂钩 照片"
+  },
+  {
+    "ticket": "T0123",
+    "order_line": "L0123",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B041",
+    "received": "2026-08-25T13:00:00+08:00",
+    "due": "2026-08-28T16:00:00+08:00",
+    "description": "怎么 清洗 图案 "
+  },
+  {
+    "ticket": "T0124",
+    "order_line": "L0124",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B041",
+    "received": "2026-08-25T13:00:00+08:00",
+    "due": "2026-08-28T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 换货后"
+  },
+  {
+    "ticket": "T0125",
+    "order_line": "L0125",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B041",
+    "received": "2026-08-26T13:00:00+08:00",
+    "due": "2026-08-29T16:00:00+08:00",
+    "description": "字 印偏 看不清 照片"
+  },
+  {
+    "ticket": "T0126",
+    "order_line": "L0126",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B042",
+    "received": "2026-08-26T13:00:00+08:00",
+    "due": "2026-08-27T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 新到"
+  },
+  {
+    "ticket": "T0127",
+    "order_line": "L0127",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B042",
+    "received": "2026-08-26T13:00:00+08:00",
+    "due": "2026-08-29T16:00:00+08:00",
+    "description": "漏发 strap "
+  },
+  {
+    "ticket": "T0128",
+    "order_line": "L0128",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B042",
+    "received": "2026-08-26T13:00:00+08:00",
+    "due": "2026-08-29T16:00:00+08:00",
+    "description": "请问 哪个 展馆 新到"
+  },
+  {
+    "ticket": "T0129",
+    "order_line": "L0129",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B043",
+    "received": "2026-08-26T13:00:00+08:00",
+    "due": "2026-08-29T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 新到"
+  },
+  {
+    "ticket": "T0130",
+    "order_line": "L0130",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B043",
+    "received": "2026-08-27T13:00:00+08:00",
+    "due": "2026-08-30T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 换货后"
+  },
+  {
+    "ticket": "T0131",
+    "order_line": "L0131",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B043",
+    "received": "2026-08-27T13:00:00+08:00",
+    "due": "2026-08-28T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 换货后"
+  },
+  {
+    "ticket": "T0132",
+    "order_line": "L0132",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B044",
+    "received": "2026-08-27T13:00:00+08:00",
+    "due": "2026-08-30T16:00:00+08:00",
+    "description": "请问 哪个 展馆 换货后"
+  },
+  {
+    "ticket": "T0132B",
+    "order_line": "L0132",
+    "linked": "T0132",
+    "store": "arch",
+    "product_family": "B044",
+    "received": "2026-08-31T13:00:00+08:00",
+    "due": "2026-09-03T16:00:00+08:00",
+    "description": "请问 哪个 展馆 换货后 前次问过"
+  },
+  {
+    "ticket": "T0133",
+    "order_line": "L0133",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B044",
+    "received": "2026-08-27T13:00:00+08:00",
+    "due": "2026-08-30T16:00:00+08:00",
+    "description": "仓盒 破损 parcel "
+  },
+  {
+    "ticket": "T0134",
+    "order_line": "L0134",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B044",
+    "received": "2026-08-27T13:00:00+08:00",
+    "due": "2026-08-30T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 换货后"
+  },
+  {
+    "ticket": "T0135",
+    "order_line": "L0135",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B045",
+    "received": "2026-08-28T13:00:00+08:00",
+    "due": "2026-08-29T16:00:00+08:00",
+    "description": "涂层 污迹 染手 照片"
+  },
+  {
+    "ticket": "T0136",
+    "order_line": "L0136",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B045",
+    "received": "2026-08-28T13:00:00+08:00",
+    "due": "2026-08-31T16:00:00+08:00",
+    "description": "漏发 strap 馆店"
+  },
+  {
+    "ticket": "T0137",
+    "order_line": "L0137",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B045",
+    "received": "2026-08-28T13:00:00+08:00",
+    "due": "2026-08-31T16:00:00+08:00",
+    "description": "怎么 清洗 图案 "
+  },
+  {
+    "ticket": "T0138",
+    "order_line": "L0138",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B046",
+    "received": "2026-08-28T13:00:00+08:00",
+    "due": "2026-08-31T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 新到"
+  },
+  {
+    "ticket": "T0139",
+    "order_line": "L0139",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B046",
+    "received": "2026-08-28T13:00:00+08:00",
+    "due": "2026-08-31T16:00:00+08:00",
+    "description": "图案 印歪 拼接 照片"
+  },
+  {
+    "ticket": "T0140",
+    "order_line": "L0140",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B046",
+    "received": "2026-08-29T13:00:00+08:00",
+    "due": "2026-08-30T16:00:00+08:00",
+    "description": "涂层 污迹 染手 照片"
+  },
+  {
+    "ticket": "T0141",
+    "order_line": "L0141",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B047",
+    "received": "2026-08-29T13:00:00+08:00",
+    "due": "2026-09-01T16:00:00+08:00",
+    "description": "少了 卡扣 配件 照片"
+  },
+  {
+    "ticket": "T0142",
+    "order_line": "L0142",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B047",
+    "received": "2026-08-29T13:00:00+08:00",
+    "due": "2026-09-01T16:00:00+08:00",
+    "description": "有无 授权 说明 "
+  },
+  {
+    "ticket": "T0143",
+    "order_line": "L0143",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B047",
+    "received": "2026-08-29T13:00:00+08:00",
+    "due": "2026-09-01T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 换货后"
+  },
+  {
+    "ticket": "T0143B",
+    "order_line": "L0143",
+    "linked": "T0143",
+    "store": "hill",
+    "product_family": "B047",
+    "received": "2026-09-02T13:00:00+08:00",
+    "due": "2026-09-05T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 换货后 前次问过"
+  },
+  {
+    "ticket": "T0144",
+    "order_line": "L0144",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B048",
+    "received": "2026-08-29T13:00:00+08:00",
+    "due": "2026-08-30T16:00:00+08:00",
+    "description": "涂层 污迹 染手 馆店"
+  },
+  {
+    "ticket": "T0145",
+    "order_line": "L0145",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B048",
+    "received": "2026-08-30T13:00:00+08:00",
+    "due": "2026-09-02T16:00:00+08:00",
+    "description": "漏发 strap 照片"
+  },
+  {
+    "ticket": "T0146",
+    "order_line": "L0146",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B048",
+    "received": "2026-08-30T13:00:00+08:00",
+    "due": "2026-09-02T16:00:00+08:00",
+    "description": "有无 授权 说明 照片"
+  },
+  {
+    "ticket": "T0147",
+    "order_line": "L0147",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B049",
+    "received": "2026-08-30T13:00:00+08:00",
+    "due": "2026-09-02T16:00:00+08:00",
+    "description": "撞坏 缓冲 换货后"
+  },
+  {
+    "ticket": "T0148",
+    "order_line": "L0148",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B049",
+    "received": "2026-08-30T13:00:00+08:00",
+    "due": "2026-09-02T16:00:00+08:00",
+    "description": "字 印偏 看不清 照片"
+  },
+  {
+    "ticket": "T0149",
+    "order_line": "L0149",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B049",
+    "received": "2026-08-30T13:00:00+08:00",
+    "due": "2026-08-31T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 新到"
+  },
+  {
+    "ticket": "T0150",
+    "order_line": "L0150",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B050",
+    "received": "2026-08-31T13:00:00+08:00",
+    "due": "2026-09-03T16:00:00+08:00",
+    "description": "没有 附件 挂钩 照片"
+  },
+  {
+    "ticket": "T0151",
+    "order_line": "L0151",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B050",
+    "received": "2026-08-31T13:00:00+08:00",
+    "due": "2026-09-03T16:00:00+08:00",
+    "description": "怎么 清洗 图案 照片"
+  },
+  {
+    "ticket": "T0152",
+    "order_line": "L0152",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B050",
+    "received": "2026-08-31T13:00:00+08:00",
+    "due": "2026-09-03T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 馆店"
+  },
+  {
+    "ticket": "T0153",
+    "order_line": "L0153",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B051",
+    "received": "2026-08-31T13:00:00+08:00",
+    "due": "2026-09-03T16:00:00+08:00",
+    "description": "字 印偏 看不清 馆店"
+  },
+  {
+    "ticket": "T0154",
+    "order_line": "L0154",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B051",
+    "received": "2026-08-31T13:00:00+08:00",
+    "due": "2026-09-03T16:00:00+08:00",
+    "description": "盖子 找不到 零件 "
+  },
+  {
+    "ticket": "T0154B",
+    "order_line": "L0154",
+    "linked": "T0154",
+    "store": "hall",
+    "product_family": "B051",
+    "received": "2026-09-04T13:00:00+08:00",
+    "due": "2026-09-07T16:00:00+08:00",
+    "description": "盖子 找不到 零件  前次问过"
+  },
+  {
+    "ticket": "T0155",
+    "order_line": "L0155",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B051",
+    "received": "2026-09-01T13:00:00+08:00",
+    "due": "2026-09-04T16:00:00+08:00",
+    "description": "怎么 清洗 图案 换货后"
+  },
+  {
+    "ticket": "T0156",
+    "order_line": "L0156",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B052",
+    "received": "2026-09-01T13:00:00+08:00",
+    "due": "2026-09-04T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 新到"
+  },
+  {
+    "ticket": "T0157",
+    "order_line": "L0157",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B052",
+    "received": "2026-09-01T13:00:00+08:00",
+    "due": "2026-09-04T16:00:00+08:00",
+    "description": "图案 印歪 拼接 馆店"
+  },
+  {
+    "ticket": "T0158",
+    "order_line": "L0158",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B052",
+    "received": "2026-09-01T13:00:00+08:00",
+    "due": "2026-09-02T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 换货后"
+  },
+  {
+    "ticket": "T0159",
+    "order_line": "L0159",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B053",
+    "received": "2026-09-01T13:00:00+08:00",
+    "due": "2026-09-04T16:00:00+08:00",
+    "description": "漏发 strap "
+  },
+  {
+    "ticket": "T0160",
+    "order_line": "L0160",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B053",
+    "received": "2026-09-02T13:00:00+08:00",
+    "due": "2026-09-05T16:00:00+08:00",
+    "description": "预约 联系 展示牌 "
+  },
+  {
+    "ticket": "T0161",
+    "order_line": "L0161",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B053",
+    "received": "2026-09-02T13:00:00+08:00",
+    "due": "2026-09-05T16:00:00+08:00",
+    "description": "包装 角扁 物流 照片"
+  },
+  {
+    "ticket": "T0162",
+    "order_line": "L0162",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B054",
+    "received": "2026-09-02T13:00:00+08:00",
+    "due": "2026-09-05T16:00:00+08:00",
+    "description": "字 印偏 看不清 换货后"
+  },
+  {
+    "ticket": "T0163",
+    "order_line": "L0163",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B054",
+    "received": "2026-09-02T13:00:00+08:00",
+    "due": "2026-09-03T16:00:00+08:00",
+    "description": "涂层 污迹 染手 馆店"
+  },
+  {
+    "ticket": "T0164",
+    "order_line": "L0164",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B054",
+    "received": "2026-09-02T13:00:00+08:00",
+    "due": "2026-09-05T16:00:00+08:00",
+    "description": "少了 卡扣 配件 照片"
+  },
+  {
+    "ticket": "T0165",
+    "order_line": "L0165",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B055",
+    "received": "2026-09-03T13:00:00+08:00",
+    "due": "2026-09-06T16:00:00+08:00",
+    "description": "包装 角扁 物流 "
+  },
+  {
+    "ticket": "T0165B",
+    "order_line": "L0165",
+    "linked": "T0165",
+    "store": "arch",
+    "product_family": "B055",
+    "received": "2026-09-07T13:00:00+08:00",
+    "due": "2026-09-10T16:00:00+08:00",
+    "description": "包装 角扁 物流  前次问过"
+  },
+  {
+    "ticket": "T0166",
+    "order_line": "L0166",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B055",
+    "received": "2026-09-03T13:00:00+08:00",
+    "due": "2026-09-06T16:00:00+08:00",
+    "description": "字 印偏 看不清 换货后"
+  },
+  {
+    "ticket": "T0167",
+    "order_line": "L0167",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B055",
+    "received": "2026-09-03T13:00:00+08:00",
+    "due": "2026-09-04T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 照片"
+  },
+  {
+    "ticket": "T0168",
+    "order_line": "L0168",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B056",
+    "received": "2026-09-03T13:00:00+08:00",
+    "due": "2026-09-06T16:00:00+08:00",
+    "description": "盖子 找不到 零件 "
+  },
+  {
+    "ticket": "T0169",
+    "order_line": "L0169",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B056",
+    "received": "2026-09-03T13:00:00+08:00",
+    "due": "2026-09-06T16:00:00+08:00",
+    "description": "有无 授权 说明 馆店"
+  },
+  {
+    "ticket": "T0170",
+    "order_line": "L0170",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B056",
+    "received": "2026-09-04T13:00:00+08:00",
+    "due": "2026-09-07T16:00:00+08:00",
+    "description": "撞坏 缓冲 馆店"
+  },
+  {
+    "ticket": "T0171",
+    "order_line": "L0171",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B057",
+    "received": "2026-09-04T13:00:00+08:00",
+    "due": "2026-09-07T16:00:00+08:00",
+    "description": "图案 印歪 拼接 新到"
+  },
+  {
+    "ticket": "T0172",
+    "order_line": "L0172",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B057",
+    "received": "2026-09-04T13:00:00+08:00",
+    "due": "2026-09-05T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 照片"
+  },
+  {
+    "ticket": "T0173",
+    "order_line": "L0173",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B057",
+    "received": "2026-09-04T13:00:00+08:00",
+    "due": "2026-09-07T16:00:00+08:00",
+    "description": "漏发 strap 新到"
+  },
+  {
+    "ticket": "T0174",
+    "order_line": "L0174",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B058",
+    "received": "2026-09-04T13:00:00+08:00",
+    "due": "2026-09-07T16:00:00+08:00",
+    "description": "请问 哪个 展馆 换货后"
+  },
+  {
+    "ticket": "T0175",
+    "order_line": "L0175",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B058",
+    "received": "2026-09-05T13:00:00+08:00",
+    "due": "2026-09-08T16:00:00+08:00",
+    "description": "撞坏 缓冲 换货后"
+  },
+  {
+    "ticket": "T0176",
+    "order_line": "L0176",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B058",
+    "received": "2026-09-05T13:00:00+08:00",
+    "due": "2026-09-06T16:00:00+08:00",
+    "description": "涂层 污迹 染手 换货后"
+  },
+  {
+    "ticket": "T0176B",
+    "order_line": "L0176",
+    "linked": "T0176",
+    "store": "hill",
+    "product_family": "B058",
+    "received": "2026-09-09T13:00:00+08:00",
+    "due": "2026-09-12T16:00:00+08:00",
+    "description": "涂层 污迹 染手 换货后 前次问过"
+  },
+  {
+    "ticket": "T0177",
+    "order_line": "L0177",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B059",
+    "received": "2026-09-05T13:00:00+08:00",
+    "due": "2026-09-08T16:00:00+08:00",
+    "description": "漏发 strap 换货后"
+  },
+  {
+    "ticket": "T0178",
+    "order_line": "L0178",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B059",
+    "received": "2026-09-05T13:00:00+08:00",
+    "due": "2026-09-08T16:00:00+08:00",
+    "description": "有无 授权 说明 新到"
+  },
+  {
+    "ticket": "T0179",
+    "order_line": "L0179",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B059",
+    "received": "2026-09-05T13:00:00+08:00",
+    "due": "2026-09-08T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 "
+  },
+  {
+    "ticket": "T0180",
+    "order_line": "L0180",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B060",
+    "received": "2026-09-06T13:00:00+08:00",
+    "due": "2026-09-09T16:00:00+08:00",
+    "description": "字 印偏 看不清 馆店"
+  },
+  {
+    "ticket": "T0181",
+    "order_line": "L0181",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B060",
+    "received": "2026-09-06T13:00:00+08:00",
+    "due": "2026-09-07T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 "
+  },
+  {
+    "ticket": "T0182",
+    "order_line": "L0182",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B060",
+    "received": "2026-09-06T13:00:00+08:00",
+    "due": "2026-09-09T16:00:00+08:00",
+    "description": "没有 附件 挂钩 照片"
+  },
+  {
+    "ticket": "T0183",
+    "order_line": "L0183",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B061",
+    "received": "2026-09-06T13:00:00+08:00",
+    "due": "2026-09-09T16:00:00+08:00",
+    "description": "请问 哪个 展馆 照片"
+  },
+  {
+    "ticket": "T0184",
+    "order_line": "L0184",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B061",
+    "received": "2026-09-06T13:00:00+08:00",
+    "due": "2026-09-09T16:00:00+08:00",
+    "description": "撞坏 缓冲 "
+  },
+  {
+    "ticket": "T0185",
+    "order_line": "L0185",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B061",
+    "received": "2026-09-07T13:00:00+08:00",
+    "due": "2026-09-10T16:00:00+08:00",
+    "description": "字 印偏 看不清 新到"
+  },
+  {
+    "ticket": "T0186",
+    "order_line": "L0186",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B062",
+    "received": "2026-09-07T13:00:00+08:00",
+    "due": "2026-09-08T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 照片"
+  },
+  {
+    "ticket": "T0187",
+    "order_line": "L0187",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B062",
+    "received": "2026-09-07T13:00:00+08:00",
+    "due": "2026-09-10T16:00:00+08:00",
+    "description": "请问 哪个 展馆 换货后"
+  },
+  {
+    "ticket": "T0187B",
+    "order_line": "L0187",
+    "linked": "T0187",
+    "store": "hall",
+    "product_family": "B062",
+    "received": "2026-09-11T13:00:00+08:00",
+    "due": "2026-09-14T16:00:00+08:00",
+    "description": "请问 哪个 展馆 换货后 前次问过"
+  },
+  {
+    "ticket": "T0188",
+    "order_line": "L0188",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B062",
+    "received": "2026-09-07T13:00:00+08:00",
+    "due": "2026-09-10T16:00:00+08:00",
+    "description": "包装 角扁 物流 照片"
+  },
+  {
+    "ticket": "T0189",
+    "order_line": "L0189",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B063",
+    "received": "2026-09-07T13:00:00+08:00",
+    "due": "2026-09-10T16:00:00+08:00",
+    "description": "花样 错版 移位 换货后"
+  },
+  {
+    "ticket": "T0190",
+    "order_line": "L0190",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B063",
+    "received": "2026-09-08T13:00:00+08:00",
+    "due": "2026-09-09T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 新到"
+  },
+  {
+    "ticket": "T0191",
+    "order_line": "L0191",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B063",
+    "received": "2026-09-08T13:00:00+08:00",
+    "due": "2026-09-11T16:00:00+08:00",
+    "description": "漏发 strap 照片"
+  },
+  {
+    "ticket": "T0192",
+    "order_line": "L0192",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B064",
+    "received": "2026-09-08T13:00:00+08:00",
+    "due": "2026-09-11T16:00:00+08:00",
+    "description": "怎么 清洗 图案 照片"
+  },
+  {
+    "ticket": "T0193",
+    "order_line": "L0193",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B064",
+    "received": "2026-09-08T13:00:00+08:00",
+    "due": "2026-09-11T16:00:00+08:00",
+    "description": "撞坏 缓冲 换货后"
+  },
+  {
+    "ticket": "T0194",
+    "order_line": "L0194",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B064",
+    "received": "2026-09-08T13:00:00+08:00",
+    "due": "2026-09-11T16:00:00+08:00",
+    "description": "花样 错版 移位 "
+  },
+  {
+    "ticket": "T0195",
+    "order_line": "L0195",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B065",
+    "received": "2026-09-09T13:00:00+08:00",
+    "due": "2026-09-10T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 "
+  },
+  {
+    "ticket": "T0196",
+    "order_line": "L0196",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B065",
+    "received": "2026-09-09T13:00:00+08:00",
+    "due": "2026-09-12T16:00:00+08:00",
+    "description": "没有 附件 挂钩 "
+  },
+  {
+    "ticket": "T0197",
+    "order_line": "L0197",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B065",
+    "received": "2026-09-09T13:00:00+08:00",
+    "due": "2026-09-12T16:00:00+08:00",
+    "description": "怎么 清洗 图案 照片"
+  },
+  {
+    "ticket": "T0198",
+    "order_line": "L0198",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B066",
+    "received": "2026-09-09T13:00:00+08:00",
+    "due": "2026-09-12T16:00:00+08:00",
+    "description": "花样 错版 移位 照片"
+  },
+  {
+    "ticket": "T0198B",
+    "order_line": "L0198",
+    "linked": "T0198",
+    "store": "arch",
+    "product_family": "B066",
+    "received": "2026-09-13T13:00:00+08:00",
+    "due": "2026-09-16T16:00:00+08:00",
+    "description": "花样 错版 移位 照片 前次问过"
+  },
+  {
+    "ticket": "T0199",
+    "order_line": "L0199",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B066",
+    "received": "2026-09-09T13:00:00+08:00",
+    "due": "2026-09-10T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 新到"
+  },
+  {
+    "ticket": "T0200",
+    "order_line": "L0200",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B066",
+    "received": "2026-09-10T13:00:00+08:00",
+    "due": "2026-09-13T16:00:00+08:00",
+    "description": "少了 卡扣 配件 换货后"
+  },
+  {
+    "ticket": "T0201",
+    "order_line": "L0201",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B067",
+    "received": "2026-09-10T13:00:00+08:00",
+    "due": "2026-09-13T16:00:00+08:00",
+    "description": "预约 联系 展示牌 换货后"
+  },
+  {
+    "ticket": "T0202",
+    "order_line": "L0202",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B067",
+    "received": "2026-09-10T13:00:00+08:00",
+    "due": "2026-09-13T16:00:00+08:00",
+    "description": "仓盒 破损 parcel "
+  },
+  {
+    "ticket": "T0203",
+    "order_line": "L0203",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B067",
+    "received": "2026-09-10T13:00:00+08:00",
+    "due": "2026-09-13T16:00:00+08:00",
+    "description": "花样 错版 移位 "
+  },
+  {
+    "ticket": "T0204",
+    "order_line": "L0204",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B068",
+    "received": "2026-09-10T13:00:00+08:00",
+    "due": "2026-09-11T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 馆店"
+  },
+  {
+    "ticket": "T0205",
+    "order_line": "L0205",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B068",
+    "received": "2026-09-11T13:00:00+08:00",
+    "due": "2026-09-14T16:00:00+08:00",
+    "description": "盖子 找不到 零件 换货后"
+  },
+  {
+    "ticket": "T0206",
+    "order_line": "L0206",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B068",
+    "received": "2026-09-11T13:00:00+08:00",
+    "due": "2026-09-14T16:00:00+08:00",
+    "description": "有无 授权 说明 "
+  },
+  {
+    "ticket": "T0207",
+    "order_line": "L0207",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B069",
+    "received": "2026-09-11T13:00:00+08:00",
+    "due": "2026-09-14T16:00:00+08:00",
+    "description": "包装 角扁 物流 "
+  },
+  {
+    "ticket": "T0208",
+    "order_line": "L0208",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B069",
+    "received": "2026-09-11T13:00:00+08:00",
+    "due": "2026-09-14T16:00:00+08:00",
+    "description": "花样 错版 移位 "
+  },
+  {
+    "ticket": "T0209",
+    "order_line": "L0209",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B069",
+    "received": "2026-09-11T13:00:00+08:00",
+    "due": "2026-09-14T16:00:00+08:00",
+    "description": "少了 卡扣 配件 新到"
+  },
+  {
+    "ticket": "T0209B",
+    "order_line": "L0209",
+    "linked": "T0209",
+    "store": "hill",
+    "product_family": "B069",
+    "received": "2026-09-15T13:00:00+08:00",
+    "due": "2026-09-18T16:00:00+08:00",
+    "description": "少了 卡扣 配件 新到 前次问过"
+  },
+  {
+    "ticket": "T0210",
+    "order_line": "L0210",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B070",
+    "received": "2026-09-12T13:00:00+08:00",
+    "due": "2026-09-15T16:00:00+08:00",
+    "description": "怎么 清洗 图案 "
+  },
+  {
+    "ticket": "T0211",
+    "order_line": "L0211",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B070",
+    "received": "2026-09-12T13:00:00+08:00",
+    "due": "2026-09-15T16:00:00+08:00",
+    "description": "包装 角扁 物流 照片"
+  },
+  {
+    "ticket": "T0212",
+    "order_line": "L0212",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B070",
+    "received": "2026-09-12T13:00:00+08:00",
+    "due": "2026-09-15T16:00:00+08:00",
+    "description": "花样 错版 移位 馆店"
+  },
+  {
+    "ticket": "T0213",
+    "order_line": "L0213",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B071",
+    "received": "2026-09-12T13:00:00+08:00",
+    "due": "2026-09-13T16:00:00+08:00",
+    "description": "涂层 污迹 染手 换货后"
+  },
+  {
+    "ticket": "T0214",
+    "order_line": "L0214",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B071",
+    "received": "2026-09-12T13:00:00+08:00",
+    "due": "2026-09-15T16:00:00+08:00",
+    "description": "盖子 找不到 零件 照片"
+  },
+  {
+    "ticket": "T0215",
+    "order_line": "L0215",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B071",
+    "received": "2026-09-13T13:00:00+08:00",
+    "due": "2026-09-16T16:00:00+08:00",
+    "description": "有无 授权 说明 照片"
+  },
+  {
+    "ticket": "T0216",
+    "order_line": "L0216",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B072",
+    "received": "2026-09-13T13:00:00+08:00",
+    "due": "2026-09-16T16:00:00+08:00",
+    "description": "仓盒 破损 parcel "
+  },
+  {
+    "ticket": "T0217",
+    "order_line": "L0217",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B072",
+    "received": "2026-09-13T13:00:00+08:00",
+    "due": "2026-09-16T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 换货后"
+  },
+  {
+    "ticket": "T0218",
+    "order_line": "L0218",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B072",
+    "received": "2026-09-13T13:00:00+08:00",
+    "due": "2026-09-14T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 照片"
+  },
+  {
+    "ticket": "T0219",
+    "order_line": "L0219",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B073",
+    "received": "2026-09-13T13:00:00+08:00",
+    "due": "2026-09-16T16:00:00+08:00",
+    "description": "没有 附件 挂钩 "
+  },
+  {
+    "ticket": "T0220",
+    "order_line": "L0220",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B073",
+    "received": "2026-09-14T13:00:00+08:00",
+    "due": "2026-09-17T16:00:00+08:00",
+    "description": "撞坏 缓冲 "
+  },
+  {
+    "ticket": "T0220B",
+    "order_line": "L0220",
+    "linked": "T0220",
+    "store": "hall",
+    "product_family": "B073",
+    "received": "2026-09-18T13:00:00+08:00",
+    "due": "2026-09-21T16:00:00+08:00",
+    "description": "撞坏 缓冲  前次问过"
+  },
+  {
+    "ticket": "T0221",
+    "order_line": "L0221",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B073",
+    "received": "2026-09-14T13:00:00+08:00",
+    "due": "2026-09-17T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 馆店"
+  },
+  {
+    "ticket": "T0222",
+    "order_line": "L0222",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B074",
+    "received": "2026-09-14T13:00:00+08:00",
+    "due": "2026-09-15T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 新到"
+  },
+  {
+    "ticket": "T0223",
+    "order_line": "L0223",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B074",
+    "received": "2026-09-14T13:00:00+08:00",
+    "due": "2026-09-17T16:00:00+08:00",
+    "description": "漏发 strap 馆店"
+  },
+  {
+    "ticket": "T0224",
+    "order_line": "L0224",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B074",
+    "received": "2026-09-14T13:00:00+08:00",
+    "due": "2026-09-17T16:00:00+08:00",
+    "description": "有无 授权 说明 馆店"
+  },
+  {
+    "ticket": "T0225",
+    "order_line": "L0225",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B075",
+    "received": "2026-09-15T13:00:00+08:00",
+    "due": "2026-09-18T16:00:00+08:00",
+    "description": "撞坏 缓冲 "
+  },
+  {
+    "ticket": "T0226",
+    "order_line": "L0226",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B075",
+    "received": "2026-09-15T13:00:00+08:00",
+    "due": "2026-09-18T16:00:00+08:00",
+    "description": "图案 印歪 拼接 新到"
+  },
+  {
+    "ticket": "T0227",
+    "order_line": "L0227",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B075",
+    "received": "2026-09-15T13:00:00+08:00",
+    "due": "2026-09-16T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 换货后"
+  },
+  {
+    "ticket": "T0228",
+    "order_line": "L0228",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B076",
+    "received": "2026-09-15T13:00:00+08:00",
+    "due": "2026-09-18T16:00:00+08:00",
+    "description": "盖子 找不到 零件 新到"
+  },
+  {
+    "ticket": "T0229",
+    "order_line": "L0229",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B076",
+    "received": "2026-09-15T13:00:00+08:00",
+    "due": "2026-09-18T16:00:00+08:00",
+    "description": "怎么 清洗 图案 "
+  },
+  {
+    "ticket": "T0230",
+    "order_line": "L0230",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B076",
+    "received": "2026-09-16T13:00:00+08:00",
+    "due": "2026-09-19T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 新到"
+  },
+  {
+    "ticket": "T0231",
+    "order_line": "L0231",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B077",
+    "received": "2026-09-16T13:00:00+08:00",
+    "due": "2026-09-17T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 新到"
+  },
+  {
+    "ticket": "T0231B",
+    "order_line": "L0231",
+    "linked": "T0231",
+    "store": "arch",
+    "product_family": "B077",
+    "received": "2026-09-20T13:00:00+08:00",
+    "due": "2026-09-23T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 新到 前次问过"
+  },
+  {
+    "ticket": "T0232",
+    "order_line": "L0232",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B077",
+    "received": "2026-09-16T13:00:00+08:00",
+    "due": "2026-09-19T16:00:00+08:00",
+    "description": "少了 卡扣 配件 新到"
+  },
+  {
+    "ticket": "T0233",
+    "order_line": "L0233",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B077",
+    "received": "2026-09-16T13:00:00+08:00",
+    "due": "2026-09-19T16:00:00+08:00",
+    "description": "预约 联系 展示牌 新到"
+  },
+  {
+    "ticket": "T0234",
+    "order_line": "L0234",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B078",
+    "received": "2026-09-16T13:00:00+08:00",
+    "due": "2026-09-19T16:00:00+08:00",
+    "description": "包装 角扁 物流 馆店"
+  },
+  {
+    "ticket": "T0235",
+    "order_line": "L0235",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B078",
+    "received": "2026-09-17T13:00:00+08:00",
+    "due": "2026-09-20T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 照片"
+  },
+  {
+    "ticket": "T0236",
+    "order_line": "L0236",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B078",
+    "received": "2026-09-17T13:00:00+08:00",
+    "due": "2026-09-18T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 馆店"
+  },
+  {
+    "ticket": "T0237",
+    "order_line": "L0237",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B079",
+    "received": "2026-09-17T13:00:00+08:00",
+    "due": "2026-09-20T16:00:00+08:00",
+    "description": "漏发 strap 馆店"
+  },
+  {
+    "ticket": "T0238",
+    "order_line": "L0238",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B079",
+    "received": "2026-09-17T13:00:00+08:00",
+    "due": "2026-09-20T16:00:00+08:00",
+    "description": "怎么 清洗 图案 换货后"
+  },
+  {
+    "ticket": "T0239",
+    "order_line": "L0239",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B079",
+    "received": "2026-09-17T13:00:00+08:00",
+    "due": "2026-09-20T16:00:00+08:00",
+    "description": "包装 角扁 物流 照片"
+  },
+  {
+    "ticket": "T0240",
+    "order_line": "L0240",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B080",
+    "received": "2026-09-18T13:00:00+08:00",
+    "due": "2026-09-21T16:00:00+08:00",
+    "description": "图案 印歪 拼接 照片"
+  },
+  {
+    "ticket": "T0241",
+    "order_line": "L0241",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B080",
+    "received": "2026-09-18T13:00:00+08:00",
+    "due": "2026-09-19T16:00:00+08:00",
+    "description": "涂层 污迹 染手 "
+  },
+  {
+    "ticket": "T0242",
+    "order_line": "L0242",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B080",
+    "received": "2026-09-18T13:00:00+08:00",
+    "due": "2026-09-21T16:00:00+08:00",
+    "description": "有无 授权 说明 换货后"
+  },
+  {
+    "ticket": "T0242B",
+    "order_line": "L0242",
+    "linked": "T0242",
+    "store": "hill",
+    "product_family": "B080",
+    "received": "2026-09-22T13:00:00+08:00",
+    "due": "2026-09-25T16:00:00+08:00",
+    "description": "有无 授权 说明 换货后 前次问过"
+  },
+  {
+    "ticket": "T0243",
+    "order_line": "L0243",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B081",
+    "received": "2026-09-18T13:00:00+08:00",
+    "due": "2026-09-21T16:00:00+08:00",
+    "description": "撞坏 缓冲 馆店"
+  },
+  {
+    "ticket": "T0244",
+    "order_line": "L0244",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B081",
+    "received": "2026-09-18T13:00:00+08:00",
+    "due": "2026-09-21T16:00:00+08:00",
+    "description": "图案 印歪 拼接 馆店"
+  },
+  {
+    "ticket": "T0245",
+    "order_line": "L0245",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B081",
+    "received": "2026-09-19T13:00:00+08:00",
+    "due": "2026-09-20T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 馆店"
+  },
+  {
+    "ticket": "T0246",
+    "order_line": "L0246",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B082",
+    "received": "2026-09-19T13:00:00+08:00",
+    "due": "2026-09-22T16:00:00+08:00",
+    "description": "没有 附件 挂钩 照片"
+  },
+  {
+    "ticket": "T0247",
+    "order_line": "L0247",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B082",
+    "received": "2026-09-19T13:00:00+08:00",
+    "due": "2026-09-22T16:00:00+08:00",
+    "description": "怎么 清洗 图案 馆店"
+  },
+  {
+    "ticket": "T0248",
+    "order_line": "L0248",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B082",
+    "received": "2026-09-19T13:00:00+08:00",
+    "due": "2026-09-22T16:00:00+08:00",
+    "description": "撞坏 缓冲 换货后"
+  },
+  {
+    "ticket": "T0249",
+    "order_line": "L0249",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B083",
+    "received": "2026-09-19T13:00:00+08:00",
+    "due": "2026-09-22T16:00:00+08:00",
+    "description": "字 印偏 看不清 "
+  },
+  {
+    "ticket": "T0250",
+    "order_line": "L0250",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B083",
+    "received": "2026-09-20T13:00:00+08:00",
+    "due": "2026-09-21T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 照片"
+  },
+  {
+    "ticket": "T0251",
+    "order_line": "L0251",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B083",
+    "received": "2026-09-20T13:00:00+08:00",
+    "due": "2026-09-23T16:00:00+08:00",
+    "description": "盖子 找不到 零件 换货后"
+  },
+  {
+    "ticket": "T0252",
+    "order_line": "L0252",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B084",
+    "received": "2026-09-20T13:00:00+08:00",
+    "due": "2026-09-23T16:00:00+08:00",
+    "description": "预约 联系 展示牌 "
+  },
+  {
+    "ticket": "T0253",
+    "order_line": "L0253",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B084",
+    "received": "2026-09-20T13:00:00+08:00",
+    "due": "2026-09-23T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 新到"
+  },
+  {
+    "ticket": "T0253B",
+    "order_line": "L0253",
+    "linked": "T0253",
+    "store": "hall",
+    "product_family": "B084",
+    "received": "2026-09-24T13:00:00+08:00",
+    "due": "2026-09-27T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 新到 前次问过"
+  },
+  {
+    "ticket": "T0254",
+    "order_line": "L0254",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B084",
+    "received": "2026-09-20T13:00:00+08:00",
+    "due": "2026-09-21T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 换货后"
+  },
+  {
+    "ticket": "T0255",
+    "order_line": "L0255",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B085",
+    "received": "2026-09-21T13:00:00+08:00",
+    "due": "2026-09-24T16:00:00+08:00",
+    "description": "少了 卡扣 配件 "
+  },
+  {
+    "ticket": "T0256",
+    "order_line": "L0256",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B085",
+    "received": "2026-09-21T13:00:00+08:00",
+    "due": "2026-09-24T16:00:00+08:00",
+    "description": "有无 授权 说明 照片"
+  },
+  {
+    "ticket": "T0257",
+    "order_line": "L0257",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B085",
+    "received": "2026-09-21T13:00:00+08:00",
+    "due": "2026-09-24T16:00:00+08:00",
+    "description": "撞坏 缓冲 新到"
+  },
+  {
+    "ticket": "T0258",
+    "order_line": "L0258",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B086",
+    "received": "2026-09-21T13:00:00+08:00",
+    "due": "2026-09-24T16:00:00+08:00",
+    "description": "花样 错版 移位 照片"
+  },
+  {
+    "ticket": "T0259",
+    "order_line": "L0259",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B086",
+    "received": "2026-09-21T13:00:00+08:00",
+    "due": "2026-09-22T16:00:00+08:00",
+    "description": "涂层 污迹 染手 馆店"
+  },
+  {
+    "ticket": "T0260",
+    "order_line": "L0260",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B086",
+    "received": "2026-09-22T13:00:00+08:00",
+    "due": "2026-09-25T16:00:00+08:00",
+    "description": "没有 附件 挂钩 新到"
+  },
+  {
+    "ticket": "T0261",
+    "order_line": "L0261",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B087",
+    "received": "2026-09-22T13:00:00+08:00",
+    "due": "2026-09-25T16:00:00+08:00",
+    "description": "怎么 清洗 图案 馆店"
+  },
+  {
+    "ticket": "T0262",
+    "order_line": "L0262",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B087",
+    "received": "2026-09-22T13:00:00+08:00",
+    "due": "2026-09-25T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 照片"
+  },
+  {
+    "ticket": "T0263",
+    "order_line": "L0263",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B087",
+    "received": "2026-09-22T13:00:00+08:00",
+    "due": "2026-09-25T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 "
+  },
+  {
+    "ticket": "T0264",
+    "order_line": "L0264",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B088",
+    "received": "2026-09-22T13:00:00+08:00",
+    "due": "2026-09-25T16:00:00+08:00",
+    "description": "少了 卡扣 配件 新到"
+  },
+  {
+    "ticket": "T0264B",
+    "order_line": "L0264",
+    "linked": "T0264",
+    "store": "arch",
+    "product_family": "B088",
+    "received": "2026-09-26T13:00:00+08:00",
+    "due": "2026-09-29T16:00:00+08:00",
+    "description": "少了 卡扣 配件 新到 前次问过"
+  },
+  {
+    "ticket": "T0265",
+    "order_line": "L0265",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B088",
+    "received": "2026-09-23T13:00:00+08:00",
+    "due": "2026-09-26T16:00:00+08:00",
+    "description": "怎么 清洗 图案 新到"
+  },
+  {
+    "ticket": "T0266",
+    "order_line": "L0266",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B088",
+    "received": "2026-09-23T13:00:00+08:00",
+    "due": "2026-09-26T16:00:00+08:00",
+    "description": "仓盒 破损 parcel "
+  },
+  {
+    "ticket": "T0267",
+    "order_line": "L0267",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B089",
+    "received": "2026-09-23T13:00:00+08:00",
+    "due": "2026-09-26T16:00:00+08:00",
+    "description": "表层到手已颜色 odd stain"
+  },
+  {
+    "ticket": "T0268",
+    "order_line": "L0268",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B089",
+    "received": "2026-09-23T13:00:00+08:00",
+    "due": "2026-09-24T16:00:00+08:00",
+    "description": "涂层 污迹 染手 照片"
+  },
+  {
+    "ticket": "T0269",
+    "order_line": "L0269",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B089",
+    "received": "2026-09-23T13:00:00+08:00",
+    "due": "2026-09-26T16:00:00+08:00",
+    "description": "没有 附件 挂钩 照片"
+  },
+  {
+    "ticket": "T0270",
+    "order_line": "L0270",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B090",
+    "received": "2026-09-24T13:00:00+08:00",
+    "due": "2026-09-27T16:00:00+08:00",
+    "description": "预约 联系 展示牌 "
+  },
+  {
+    "ticket": "T0271",
+    "order_line": "L0271",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B090",
+    "received": "2026-09-24T13:00:00+08:00",
+    "due": "2026-09-27T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 "
+  },
+  {
+    "ticket": "T0272",
+    "order_line": "L0272",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B090",
+    "received": "2026-09-24T13:00:00+08:00",
+    "due": "2026-09-27T16:00:00+08:00",
+    "description": "图案 印歪 拼接 新到"
+  },
+  {
+    "ticket": "T0273",
+    "order_line": "L0273",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B091",
+    "received": "2026-09-24T13:00:00+08:00",
+    "due": "2026-09-25T16:00:00+08:00",
+    "description": "涂层 污迹 染手 照片"
+  },
+  {
+    "ticket": "T0274",
+    "order_line": "L0274",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B091",
+    "received": "2026-09-24T13:00:00+08:00",
+    "due": "2026-09-27T16:00:00+08:00",
+    "description": "盖子 找不到 零件 换货后"
+  },
+  {
+    "ticket": "T0275",
+    "order_line": "L0275",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B091",
+    "received": "2026-09-25T13:00:00+08:00",
+    "due": "2026-09-28T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 换货后"
+  },
+  {
+    "ticket": "T0275B",
+    "order_line": "L0275",
+    "linked": "T0275",
+    "store": "hill",
+    "product_family": "B091",
+    "received": "2026-09-29T13:00:00+08:00",
+    "due": "2026-10-02T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 换货后 前次问过"
+  },
+  {
+    "ticket": "T0276",
+    "order_line": "L0276",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B092",
+    "received": "2026-09-25T13:00:00+08:00",
+    "due": "2026-09-28T16:00:00+08:00",
+    "description": "字 印偏 看不清 照片"
+  },
+  {
+    "ticket": "T0277",
+    "order_line": "L0277",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B092",
+    "received": "2026-09-25T13:00:00+08:00",
+    "due": "2026-09-26T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 照片"
+  },
+  {
+    "ticket": "T0278",
+    "order_line": "L0278",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B092",
+    "received": "2026-09-25T13:00:00+08:00",
+    "due": "2026-09-28T16:00:00+08:00",
+    "description": "漏发 strap 换货后"
+  },
+  {
+    "ticket": "T0279",
+    "order_line": "L0279",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B093",
+    "received": "2026-09-25T13:00:00+08:00",
+    "due": "2026-09-28T16:00:00+08:00",
+    "description": "请问 哪个 展馆 "
+  },
+  {
+    "ticket": "T0280",
+    "order_line": "L0280",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B093",
+    "received": "2026-09-26T13:00:00+08:00",
+    "due": "2026-09-29T16:00:00+08:00",
+    "description": "包装 角扁 物流 新到"
+  },
+  {
+    "ticket": "T0281",
+    "order_line": "L0281",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B093",
+    "received": "2026-09-26T13:00:00+08:00",
+    "due": "2026-09-29T16:00:00+08:00",
+    "description": "图案 印歪 拼接 馆店"
+  },
+  {
+    "ticket": "T0282",
+    "order_line": "L0282",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B094",
+    "received": "2026-09-26T13:00:00+08:00",
+    "due": "2026-09-27T16:00:00+08:00",
+    "description": "表层到手已颜色 odd stain"
+  },
+  {
+    "ticket": "T0283",
+    "order_line": "L0283",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B094",
+    "received": "2026-09-26T13:00:00+08:00",
+    "due": "2026-09-29T16:00:00+08:00",
+    "description": "漏发 strap 新到"
+  },
+  {
+    "ticket": "T0284",
+    "order_line": "L0284",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B094",
+    "received": "2026-09-26T13:00:00+08:00",
+    "due": "2026-09-29T16:00:00+08:00",
+    "description": "请问 哪个 展馆 "
+  },
+  {
+    "ticket": "T0285",
+    "order_line": "L0285",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B095",
+    "received": "2026-09-27T13:00:00+08:00",
+    "due": "2026-09-30T16:00:00+08:00",
+    "description": "包装 角扁 物流 馆店"
+  },
+  {
+    "ticket": "T0286",
+    "order_line": "L0286",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B095",
+    "received": "2026-09-27T13:00:00+08:00",
+    "due": "2026-09-28T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 照片"
+  },
+  {
+    "ticket": "T0286B",
+    "order_line": "L0286",
+    "linked": "T0286",
+    "store": "hall",
+    "product_family": "B095",
+    "received": "2026-10-01T13:00:00+08:00",
+    "due": "2026-10-04T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 照片 前次问过"
+  },
+  {
+    "ticket": "T0287",
+    "order_line": "L0287",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B095",
+    "received": "2026-09-27T13:00:00+08:00",
+    "due": "2026-09-30T16:00:00+08:00",
+    "description": "没有 附件 挂钩 新到"
+  },
+  {
+    "ticket": "T0288",
+    "order_line": "L0288",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B096",
+    "received": "2026-09-27T13:00:00+08:00",
+    "due": "2026-09-30T16:00:00+08:00",
+    "description": "怎么 清洗 图案 新到"
+  },
+  {
+    "ticket": "T0289",
+    "order_line": "L0289",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B096",
+    "received": "2026-09-27T13:00:00+08:00",
+    "due": "2026-09-30T16:00:00+08:00",
+    "description": "包装 角扁 物流 "
+  },
+  {
+    "ticket": "T0290",
+    "order_line": "L0290",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B096",
+    "received": "2026-09-28T13:00:00+08:00",
+    "due": "2026-10-01T16:00:00+08:00",
+    "description": "图案 印歪 拼接 换货后"
+  },
+  {
+    "ticket": "T0291",
+    "order_line": "L0291",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B097",
+    "received": "2026-09-28T13:00:00+08:00",
+    "due": "2026-09-29T16:00:00+08:00",
+    "description": "涂层 污迹 染手 馆店"
+  },
+  {
+    "ticket": "T0292",
+    "order_line": "L0292",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B097",
+    "received": "2026-09-28T13:00:00+08:00",
+    "due": "2026-10-01T16:00:00+08:00",
+    "description": "漏发 strap 新到"
+  },
+  {
+    "ticket": "T0293",
+    "order_line": "L0293",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B097",
+    "received": "2026-09-28T13:00:00+08:00",
+    "due": "2026-10-01T16:00:00+08:00",
+    "description": "预约 联系 展示牌 照片"
+  },
+  {
+    "ticket": "T0294",
+    "order_line": "L0294",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B098",
+    "received": "2026-09-28T13:00:00+08:00",
+    "due": "2026-10-01T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 馆店"
+  },
+  {
+    "ticket": "T0295",
+    "order_line": "L0295",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B098",
+    "received": "2026-09-29T13:00:00+08:00",
+    "due": "2026-10-02T16:00:00+08:00",
+    "description": "字 印偏 看不清 新到"
+  },
+  {
+    "ticket": "T0296",
+    "order_line": "L0296",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B098",
+    "received": "2026-09-29T13:00:00+08:00",
+    "due": "2026-09-30T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 馆店"
+  },
+  {
+    "ticket": "T0297",
+    "order_line": "L0297",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B099",
+    "received": "2026-09-29T13:00:00+08:00",
+    "due": "2026-10-02T16:00:00+08:00",
+    "description": "表层到手已颜色 odd stain"
+  },
+  {
+    "ticket": "T0297B",
+    "order_line": "L0297",
+    "linked": "T0297",
+    "store": "arch",
+    "product_family": "B099",
+    "received": "2026-10-03T13:00:00+08:00",
+    "due": "2026-10-06T16:00:00+08:00",
+    "description": "表层到手已颜色 odd stain 前次问过"
+  },
+  {
+    "ticket": "T0298",
+    "order_line": "L0298",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B099",
+    "received": "2026-09-29T13:00:00+08:00",
+    "due": "2026-10-02T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 馆店"
+  },
+  {
+    "ticket": "T0299",
+    "order_line": "L0299",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B099",
+    "received": "2026-09-29T13:00:00+08:00",
+    "due": "2026-10-02T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 馆店"
+  },
+  {
+    "ticket": "T0300",
+    "order_line": "L0300",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B100",
+    "received": "2026-09-30T13:00:00+08:00",
+    "due": "2026-10-01T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 新到"
+  },
+  {
+    "ticket": "T0301",
+    "order_line": "L0301",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B100",
+    "received": "2026-09-30T13:00:00+08:00",
+    "due": "2026-10-03T16:00:00+08:00",
+    "description": "少了 卡扣 配件 新到"
+  },
+  {
+    "ticket": "T0302",
+    "order_line": "L0302",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B100",
+    "received": "2026-09-30T13:00:00+08:00",
+    "due": "2026-10-03T16:00:00+08:00",
+    "description": "预约 联系 展示牌 馆店"
+  },
+  {
+    "ticket": "T0303",
+    "order_line": "L0303",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B101",
+    "received": "2026-09-30T13:00:00+08:00",
+    "due": "2026-10-03T16:00:00+08:00",
+    "description": "撞坏 缓冲 照片"
+  },
+  {
+    "ticket": "T0304",
+    "order_line": "L0304",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B101",
+    "received": "2026-09-30T13:00:00+08:00",
+    "due": "2026-10-03T16:00:00+08:00",
+    "description": "图案 印歪 拼接 新到"
+  },
+  {
+    "ticket": "T0305",
+    "order_line": "L0305",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B101",
+    "received": "2026-10-01T13:00:00+08:00",
+    "due": "2026-10-02T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 馆店"
+  },
+  {
+    "ticket": "T0306",
+    "order_line": "L0306",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B102",
+    "received": "2026-10-01T13:00:00+08:00",
+    "due": "2026-10-04T16:00:00+08:00",
+    "description": "盖子 找不到 零件 馆店"
+  },
+  {
+    "ticket": "T0307",
+    "order_line": "L0307",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B102",
+    "received": "2026-10-01T13:00:00+08:00",
+    "due": "2026-10-04T16:00:00+08:00",
+    "description": "预约 联系 展示牌 新到"
+  },
+  {
+    "ticket": "T0308",
+    "order_line": "L0308",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B102",
+    "received": "2026-10-01T13:00:00+08:00",
+    "due": "2026-10-04T16:00:00+08:00",
+    "description": "花样 错版 移位 馆店"
+  },
+  {
+    "ticket": "T0308B",
+    "order_line": "L0308",
+    "linked": "T0308",
+    "store": "hill",
+    "product_family": "B102",
+    "received": "2026-10-05T13:00:00+08:00",
+    "due": "2026-10-08T16:00:00+08:00",
+    "description": "花样 错版 移位 馆店 前次问过"
+  },
+  {
+    "ticket": "T0309",
+    "order_line": "L0309",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B103",
+    "received": "2026-10-01T13:00:00+08:00",
+    "due": "2026-10-02T16:00:00+08:00",
+    "description": "涂层 污迹 染手 新到"
+  },
+  {
+    "ticket": "T0310",
+    "order_line": "L0310",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B103",
+    "received": "2026-10-02T13:00:00+08:00",
+    "due": "2026-10-05T16:00:00+08:00",
+    "description": "少了 卡扣 配件 "
+  },
+  {
+    "ticket": "T0311",
+    "order_line": "L0311",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B103",
+    "received": "2026-10-02T13:00:00+08:00",
+    "due": "2026-10-05T16:00:00+08:00",
+    "description": "请问 哪个 展馆 馆店"
+  },
+  {
+    "ticket": "T0312",
+    "order_line": "L0312",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B104",
+    "received": "2026-10-02T13:00:00+08:00",
+    "due": "2026-10-05T16:00:00+08:00",
+    "description": "表层到手已颜色 odd stain"
+  },
+  {
+    "ticket": "T0313",
+    "order_line": "L0313",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B104",
+    "received": "2026-10-02T13:00:00+08:00",
+    "due": "2026-10-05T16:00:00+08:00",
+    "description": "字 印偏 看不清 照片"
+  },
+  {
+    "ticket": "T0314",
+    "order_line": "L0314",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B104",
+    "received": "2026-10-02T13:00:00+08:00",
+    "due": "2026-10-03T16:00:00+08:00",
+    "description": "涂层 污迹 染手 新到"
+  },
+  {
+    "ticket": "T0315",
+    "order_line": "L0315",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B105",
+    "received": "2026-10-03T13:00:00+08:00",
+    "due": "2026-10-06T16:00:00+08:00",
+    "description": "漏发 strap 换货后"
+  },
+  {
+    "ticket": "T0316",
+    "order_line": "L0316",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B105",
+    "received": "2026-10-03T13:00:00+08:00",
+    "due": "2026-10-06T16:00:00+08:00",
+    "description": "有无 授权 说明 照片"
+  },
+  {
+    "ticket": "T0317",
+    "order_line": "L0317",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B105",
+    "received": "2026-10-03T13:00:00+08:00",
+    "due": "2026-10-06T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 照片"
+  },
+  {
+    "ticket": "T0318",
+    "order_line": "L0318",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B106",
+    "received": "2026-10-03T13:00:00+08:00",
+    "due": "2026-10-06T16:00:00+08:00",
+    "description": "图案 印歪 拼接 "
+  },
+  {
+    "ticket": "T0319",
+    "order_line": "L0319",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B106",
+    "received": "2026-10-03T13:00:00+08:00",
+    "due": "2026-10-06T16:00:00+08:00",
+    "description": "漏发 strap 馆店"
+  },
+  {
+    "ticket": "T0319B",
+    "order_line": "L0319",
+    "linked": "T0319",
+    "store": "hall",
+    "product_family": "B106",
+    "received": "2026-10-07T13:00:00+08:00",
+    "due": "2026-10-10T16:00:00+08:00",
+    "description": "漏发 strap 馆店 前次问过"
+  },
+  {
+    "ticket": "T0320",
+    "order_line": "L0320",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B106",
+    "received": "2026-10-04T13:00:00+08:00",
+    "due": "2026-10-07T16:00:00+08:00",
+    "description": "怎么 清洗 图案 照片"
+  },
+  {
+    "ticket": "T0321",
+    "order_line": "L0321",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B107",
+    "received": "2026-10-04T13:00:00+08:00",
+    "due": "2026-10-07T16:00:00+08:00",
+    "description": "压坏 外盒 破裂 "
+  },
+  {
+    "ticket": "T0322",
+    "order_line": "L0322",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B107",
+    "received": "2026-10-04T13:00:00+08:00",
+    "due": "2026-10-07T16:00:00+08:00",
+    "description": "图案 印歪 拼接 照片"
+  },
+  {
+    "ticket": "T0323",
+    "order_line": "L0323",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B107",
+    "received": "2026-10-04T13:00:00+08:00",
+    "due": "2026-10-05T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 "
+  },
+  {
+    "ticket": "T0324",
+    "order_line": "L0324",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B108",
+    "received": "2026-10-04T13:00:00+08:00",
+    "due": "2026-10-07T16:00:00+08:00",
+    "description": "盖子 找不到 零件 照片"
+  },
+  {
+    "ticket": "T0325",
+    "order_line": "L0325",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B108",
+    "received": "2026-10-05T13:00:00+08:00",
+    "due": "2026-10-08T16:00:00+08:00",
+    "description": "怎么 清洗 图案 照片"
+  },
+  {
+    "ticket": "T0326",
+    "order_line": "L0326",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B108",
+    "received": "2026-10-05T13:00:00+08:00",
+    "due": "2026-10-08T16:00:00+08:00",
+    "description": "撞坏 缓冲 照片"
+  },
+  {
+    "ticket": "T0327",
+    "order_line": "L0327",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B109",
+    "received": "2026-10-05T13:00:00+08:00",
+    "due": "2026-10-08T16:00:00+08:00",
+    "description": "表层到手已颜色 odd stain"
+  },
+  {
+    "ticket": "T0328",
+    "order_line": "L0328",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B109",
+    "received": "2026-10-05T13:00:00+08:00",
+    "due": "2026-10-06T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 "
+  },
+  {
+    "ticket": "T0329",
+    "order_line": "L0329",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B109",
+    "received": "2026-10-05T13:00:00+08:00",
+    "due": "2026-10-08T16:00:00+08:00",
+    "description": "少了 卡扣 配件 馆店"
+  },
+  {
+    "ticket": "T0330",
+    "order_line": "L0330",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B110",
+    "received": "2026-10-06T13:00:00+08:00",
+    "due": "2026-10-09T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 换货后"
+  },
+  {
+    "ticket": "T0330B",
+    "order_line": "L0330",
+    "linked": "T0330",
+    "store": "arch",
+    "product_family": "B110",
+    "received": "2026-10-10T13:00:00+08:00",
+    "due": "2026-10-13T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 换货后 前次问过"
+  },
+  {
+    "ticket": "T0331",
+    "order_line": "L0331",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B110",
+    "received": "2026-10-06T13:00:00+08:00",
+    "due": "2026-10-09T16:00:00+08:00",
+    "description": "图案 印歪 拼接 馆店"
+  },
+  {
+    "ticket": "T0332",
+    "order_line": "L0332",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B110",
+    "received": "2026-10-06T13:00:00+08:00",
+    "due": "2026-10-07T16:00:00+08:00",
+    "description": "涂层 污迹 染手 照片"
+  },
+  {
+    "ticket": "T0333",
+    "order_line": "L0333",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B111",
+    "received": "2026-10-06T13:00:00+08:00",
+    "due": "2026-10-09T16:00:00+08:00",
+    "description": "少了 卡扣 配件 照片"
+  },
+  {
+    "ticket": "T0334",
+    "order_line": "L0334",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B111",
+    "received": "2026-10-06T13:00:00+08:00",
+    "due": "2026-10-09T16:00:00+08:00",
+    "description": "有无 授权 说明 馆店"
+  },
+  {
+    "ticket": "T0335",
+    "order_line": "L0335",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B111",
+    "received": "2026-10-07T13:00:00+08:00",
+    "due": "2026-10-10T16:00:00+08:00",
+    "description": "仓盒 破损 parcel "
+  },
+  {
+    "ticket": "T0336",
+    "order_line": "L0336",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B112",
+    "received": "2026-10-07T13:00:00+08:00",
+    "due": "2026-10-10T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 馆店"
+  },
+  {
+    "ticket": "T0337",
+    "order_line": "L0337",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B112",
+    "received": "2026-10-07T13:00:00+08:00",
+    "due": "2026-10-08T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 "
+  },
+  {
+    "ticket": "T0338",
+    "order_line": "L0338",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B112",
+    "received": "2026-10-07T13:00:00+08:00",
+    "due": "2026-10-10T16:00:00+08:00",
+    "description": "没有 附件 挂钩 "
+  },
+  {
+    "ticket": "T0339",
+    "order_line": "L0339",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B113",
+    "received": "2026-10-07T13:00:00+08:00",
+    "due": "2026-10-10T16:00:00+08:00",
+    "description": "怎么 清洗 图案 "
+  },
+  {
+    "ticket": "T0340",
+    "order_line": "L0340",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B113",
+    "received": "2026-10-08T13:00:00+08:00",
+    "due": "2026-10-11T16:00:00+08:00",
+    "description": "撞坏 缓冲 新到"
+  },
+  {
+    "ticket": "T0341",
+    "order_line": "L0341",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B113",
+    "received": "2026-10-08T13:00:00+08:00",
+    "due": "2026-10-09T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 照片"
+  },
+  {
+    "ticket": "T0341B",
+    "order_line": "L0341",
+    "linked": "T0341",
+    "store": "hill",
+    "product_family": "B113",
+    "received": "2026-10-12T13:00:00+08:00",
+    "due": "2026-10-15T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 照片 前次问过"
+  },
+  {
+    "ticket": "T0342",
+    "order_line": "L0342",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B114",
+    "received": "2026-10-08T13:00:00+08:00",
+    "due": "2026-10-11T16:00:00+08:00",
+    "description": "表层到手已颜色 odd stain"
+  },
+  {
+    "ticket": "T0343",
+    "order_line": "L0343",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B114",
+    "received": "2026-10-08T13:00:00+08:00",
+    "due": "2026-10-11T16:00:00+08:00",
+    "description": "怎么 清洗 图案 换货后"
+  },
+  {
+    "ticket": "T0344",
+    "order_line": "L0344",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B114",
+    "received": "2026-10-08T13:00:00+08:00",
+    "due": "2026-10-11T16:00:00+08:00",
+    "description": "包装 角扁 物流 新到"
+  },
+  {
+    "ticket": "T0345",
+    "order_line": "L0345",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B115",
+    "received": "2026-10-09T13:00:00+08:00",
+    "due": "2026-10-12T16:00:00+08:00",
+    "description": "花样 错版 移位 "
+  },
+  {
+    "ticket": "T0346",
+    "order_line": "L0346",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B115",
+    "received": "2026-10-09T13:00:00+08:00",
+    "due": "2026-10-10T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 换货后"
+  },
+  {
+    "ticket": "T0347",
+    "order_line": "L0347",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B115",
+    "received": "2026-10-09T13:00:00+08:00",
+    "due": "2026-10-12T16:00:00+08:00",
+    "description": "盖子 找不到 零件 新到"
+  },
+  {
+    "ticket": "T0348",
+    "order_line": "L0348",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B116",
+    "received": "2026-10-09T13:00:00+08:00",
+    "due": "2026-10-12T16:00:00+08:00",
+    "description": "怎么 清洗 图案 照片"
+  },
+  {
+    "ticket": "T0349",
+    "order_line": "L0349",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B116",
+    "received": "2026-10-09T13:00:00+08:00",
+    "due": "2026-10-12T16:00:00+08:00",
+    "description": "撞坏 缓冲 馆店"
+  },
+  {
+    "ticket": "T0350",
+    "order_line": "L0350",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B116",
+    "received": "2026-10-10T13:00:00+08:00",
+    "due": "2026-10-13T16:00:00+08:00",
+    "description": "图案 印歪 拼接 馆店"
+  },
+  {
+    "ticket": "T0351",
+    "order_line": "L0351",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B117",
+    "received": "2026-10-10T13:00:00+08:00",
+    "due": "2026-10-11T16:00:00+08:00",
+    "description": "色层 摩擦 泛白 换货后"
+  },
+  {
+    "ticket": "T0352",
+    "order_line": "L0352",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B117",
+    "received": "2026-10-10T13:00:00+08:00",
+    "due": "2026-10-13T16:00:00+08:00",
+    "description": "怎么 清洗 图案 馆店"
+  },
+  {
+    "ticket": "T0352B",
+    "order_line": "L0352",
+    "linked": "T0352",
+    "store": "hall",
+    "product_family": "B117",
+    "received": "2026-10-14T13:00:00+08:00",
+    "due": "2026-10-17T16:00:00+08:00",
+    "description": "怎么 清洗 图案 馆店 前次问过"
+  },
+  {
+    "ticket": "T0353",
+    "order_line": "L0353",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B117",
+    "received": "2026-10-10T13:00:00+08:00",
+    "due": "2026-10-13T16:00:00+08:00",
+    "description": "仓盒 破损 parcel 照片"
+  },
+  {
+    "ticket": "T0354",
+    "order_line": "L0354",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B118",
+    "received": "2026-10-10T13:00:00+08:00",
+    "due": "2026-10-13T16:00:00+08:00",
+    "description": "花样 错版 移位 换货后"
+  },
+  {
+    "ticket": "T0355",
+    "order_line": "L0355",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B118",
+    "received": "2026-10-11T13:00:00+08:00",
+    "due": "2026-10-12T16:00:00+08:00",
+    "description": "涂层 污迹 染手 新到"
+  },
+  {
+    "ticket": "T0356",
+    "order_line": "L0356",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B118",
+    "received": "2026-10-11T13:00:00+08:00",
+    "due": "2026-10-14T16:00:00+08:00",
+    "description": "少了 卡扣 配件 新到"
+  },
+  {
+    "ticket": "T0357",
+    "order_line": "L0357",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B119",
+    "received": "2026-10-11T13:00:00+08:00",
+    "due": "2026-10-14T16:00:00+08:00",
+    "description": "表层到手已颜色 odd stain"
+  },
+  {
+    "ticket": "T0358",
+    "order_line": "L0358",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B119",
+    "received": "2026-10-11T13:00:00+08:00",
+    "due": "2026-10-14T16:00:00+08:00",
+    "description": "撞坏 缓冲 照片"
+  },
+  {
+    "ticket": "T0359",
+    "order_line": "L0359",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B119",
+    "received": "2026-10-11T13:00:00+08:00",
+    "due": "2026-10-14T16:00:00+08:00",
+    "description": "纹样 色差 对不齐 馆店"
+  },
+  {
+    "ticket": "T0360",
+    "order_line": "L0360",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B120",
+    "received": "2026-10-12T13:00:00+08:00",
+    "due": "2026-10-13T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 换货后"
+  },
+  {
+    "ticket": "T0361",
+    "order_line": "L0361",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B120",
+    "received": "2026-10-12T13:00:00+08:00",
+    "due": "2026-10-15T16:00:00+08:00",
+    "description": "少了 卡扣 配件 换货后"
+  },
+  {
+    "ticket": "T0362",
+    "order_line": "L0362",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B120",
+    "received": "2026-10-12T13:00:00+08:00",
+    "due": "2026-10-15T16:00:00+08:00",
+    "description": "有无 授权 说明 新到"
+  },
+  {
+    "ticket": "T0363",
+    "order_line": "L0363",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B121",
+    "received": "2026-10-12T13:00:00+08:00",
+    "due": "2026-10-15T16:00:00+08:00",
+    "description": "图案 印歪 拼接 新到"
+  },
+  {
+    "ticket": "T0363B",
+    "order_line": "L0363",
+    "linked": "T0363",
+    "store": "arch",
+    "product_family": "B121",
+    "received": "2026-10-16T13:00:00+08:00",
+    "due": "2026-10-19T16:00:00+08:00",
+    "description": "图案 印歪 拼接 新到 前次问过"
+  },
+  {
+    "ticket": "T0364",
+    "order_line": "L0364",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B121",
+    "received": "2026-10-12T13:00:00+08:00",
+    "due": "2026-10-13T16:00:00+08:00",
+    "description": "乌漆 始终 变浅 "
+  },
+  {
+    "ticket": "T0365",
+    "order_line": "L0365",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B121",
+    "received": "2026-10-13T13:00:00+08:00",
+    "due": "2026-10-16T16:00:00+08:00",
+    "description": "没有 附件 挂钩 馆店"
+  },
+  {
+    "ticket": "T0366",
+    "order_line": "L0366",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B122",
+    "received": "2026-10-13T13:00:00+08:00",
+    "due": "2026-10-16T16:00:00+08:00",
+    "description": "预约 联系 展示牌 照片"
+  },
+  {
+    "ticket": "T0367",
+    "order_line": "L0367",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B122",
+    "received": "2026-10-13T13:00:00+08:00",
+    "due": "2026-10-16T16:00:00+08:00",
+    "description": "包装 角扁 物流 "
+  },
+  {
+    "ticket": "T0368",
+    "order_line": "L0368",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B122",
+    "received": "2026-10-13T13:00:00+08:00",
+    "due": "2026-10-16T16:00:00+08:00",
+    "description": "图案 印歪 拼接 照片"
+  },
+  {
+    "ticket": "T0369",
+    "order_line": "L0369",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B123",
+    "received": "2026-10-13T13:00:00+08:00",
+    "due": "2026-10-14T16:00:00+08:00",
+    "description": "掉色 沾手 褪了 "
+  },
+  {
+    "ticket": "T0370",
+    "order_line": "L0370",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B123",
+    "received": "2026-10-14T13:00:00+08:00",
+    "due": "2026-10-17T16:00:00+08:00",
+    "description": "盖子 找不到 零件 照片"
+  },
+  {
+    "ticket": "T0371",
+    "order_line": "L0371",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B123",
+    "received": "2026-10-14T13:00:00+08:00",
+    "due": "2026-10-17T16:00:00+08:00",
+    "description": "请问 哪个 展馆 照片"
+  },
+  {
+    "ticket": "T0372",
+    "order_line": "L0372",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B124",
+    "received": "2026-10-14T13:00:00+08:00",
+    "due": "2026-10-17T16:00:00+08:00",
+    "description": "表层到手已颜色 odd stain"
+  },
+  {
+    "ticket": "T0373",
+    "order_line": "L0373",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B124",
+    "received": "2026-10-14T13:00:00+08:00",
+    "due": "2026-10-17T16:00:00+08:00",
+    "description": "花样 错版 移位 "
+  },
+  {
+    "ticket": "T0374",
+    "order_line": "L0374",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B124",
+    "received": "2026-10-14T13:00:00+08:00",
+    "due": "2026-10-17T16:00:00+08:00",
+    "description": "没有 附件 挂钩 "
+  },
+  {
+    "ticket": "T0374B",
+    "order_line": "L0374",
+    "linked": "T0374",
+    "store": "hill",
+    "product_family": "B124",
+    "received": "2026-10-18T13:00:00+08:00",
+    "due": "2026-10-21T16:00:00+08:00",
+    "description": "没有 附件 挂钩  前次问过"
+  },
+  {
+    "ticket": "T0375",
+    "order_line": "L0375",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B125",
+    "received": "2026-10-15T13:00:00+08:00",
+    "due": "2026-10-18T16:00:00+08:00",
+    "description": "请问 哪个 展馆 馆店"
+  },
+  {
+    "ticket": "T0376",
+    "order_line": "L0376",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B125",
+    "received": "2026-10-15T13:00:00+08:00",
+    "due": "2026-10-18T16:00:00+08:00",
+    "description": "包装 角扁 物流 馆店"
+  },
+  {
+    "ticket": "T0377",
+    "order_line": "L0377",
+    "linked": null,
+    "store": "hill",
+    "product_family": "B125",
+    "received": "2026-10-15T13:00:00+08:00",
+    "due": "2026-10-18T16:00:00+08:00",
+    "description": "图案 印歪 拼接 照片"
+  },
+  {
+    "ticket": "T0378",
+    "order_line": "L0378",
+    "linked": null,
+    "store": "arch",
+    "product_family": "B126",
+    "received": "2026-10-15T13:00:00+08:00",
+    "due": "2026-10-16T16:00:00+08:00",
+    "description": "涂层 污迹 染手 馆店"
+  },
+  {
+    "ticket": "T0379",
+    "order_line": "L0379",
+    "linked": null,
+    "store": "hall",
+    "product_family": "B126",
+    "received": "2026-10-15T13:00:00+08:00",
+    "due": "2026-10-18T16:00:00+08:00",
+    "description": "漏发 strap 换货后"
+  }
+]

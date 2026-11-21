@@ -1,0 +1,363 @@
+[
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-03T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-03T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-04T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-04T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-05T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-05T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-06T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-06T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-07T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-07T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-08T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-08T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-09T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-09T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-10T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-10T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-11T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-11T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-12T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-12T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-13T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-13T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-14T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-14T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-15T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-15T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-16T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-16T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-17T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-17T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-18T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-18T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-19T09:00:00+08:00",
+    "qualifications": [
+      "通用"
+    ],
+    "slots": 3
+  },
+  {
+    "reviewer": "R1",
+    "shift": "2026-10-19T14:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 2
+  },
+  {
+    "reviewer": "R2",
+    "shift": "2026-10-04T15:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 1
+  },
+  {
+    "reviewer": "R2",
+    "shift": "2026-10-06T15:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 1
+  },
+  {
+    "reviewer": "R2",
+    "shift": "2026-10-08T15:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 1
+  },
+  {
+    "reviewer": "R2",
+    "shift": "2026-10-10T15:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 1
+  },
+  {
+    "reviewer": "R2",
+    "shift": "2026-10-12T15:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 1
+  },
+  {
+    "reviewer": "R2",
+    "shift": "2026-10-14T15:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 1
+  },
+  {
+    "reviewer": "R2",
+    "shift": "2026-10-16T15:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 1
+  },
+  {
+    "reviewer": "R2",
+    "shift": "2026-10-18T15:00:00+08:00",
+    "qualifications": [
+      "通用",
+      "质控"
+    ],
+    "slots": 1
+  }
+]

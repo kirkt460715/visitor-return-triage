@@ -1,0 +1,16 @@
+[
+  {
+    "store": "hall",
+    "product_family": "B105",
+    "tag": "加急复核",
+    "from_at": "2026-10-03",
+    "until_at": "2026-10-18"
+  },
+  {
+    "store": "arch",
+    "product_family": "B112",
+    "tag": "质控资质",
+    "from_at": "2026-10-03",
+    "until_at": "2026-10-21"
+  }
+]
